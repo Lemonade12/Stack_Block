@@ -22,8 +22,8 @@ project contents
 9. The view direction is fixed to the uppermost block and the player can see only see up to 5 blocks from top.
 
 10. The defeat is determined only when the newly stacked block doesn’t fully lie on the uppermost block.
-Role
 
+Role
 김경태: Make standard block and make it move back and forward.(base)
 	Make viewing direction move to see only uppermost block.
 	Make the player can only see up to 5 blocks from top.
@@ -32,4 +32,6 @@ Role
 	Make cut off block action to fall down rotating.
 	Make rotation button and when clicked make it activate
 	Trim codes before finish.
+	
+	
 We would not able to use GearVR because we don’t have appropriate device for using it.

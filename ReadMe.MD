@@ -1,4 +1,4 @@
-				                                                block stack
+				                                                block-stack
 team members:  2012210064 김경태 2012210071 이상민
 
 project contents

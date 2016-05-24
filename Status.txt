@@ -2,10 +2,12 @@
 team members:  2012210064 김경태 2012210071 이상민
 
 Status
+what have done
 
 Made Cube
 Made Cube Move back and forth automatically
 Made Cube Rotate when up right side of the screen is touched
 
 what will do soon
+
 invoke two cubes on the screen

@@ -1,0 +1,8 @@
+﻿				                                                block-stack
+team members:  2012210064 김경태 2012210071 이상민
+
+Status
+
+Made Cube
+Made Cube Move back and forth automatically
+Made Cube Rotate when up right side of the screen is touched

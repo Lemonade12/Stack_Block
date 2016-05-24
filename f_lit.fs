@@ -9,9 +9,6 @@ uniform vec3 sourceDiff, sourceSpec, sourceAmbi;  // Sd, Ss, Sa
 varying vec3 v_lightDir,v_viewDir;
 varying vec3 v_normal;
 varying vec2 v_texCoord;
-//you should define your input variables
-//varying vec3 ___
-//...
 
 struct Material{
 	float sh;
@@ -44,5 +41,4 @@ void main() {
 	vec3 color = phongLight(normalize(v_viewDir),normalize(v_normal),material,source);
 
 	gl_FragColor = vec4(color,1.0);
-	//gl_FragColor =
 }

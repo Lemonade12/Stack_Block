@@ -6,3 +6,6 @@ Status
 Made Cube
 Made Cube Move back and forth automatically
 Made Cube Rotate when up right side of the screen is touched
+
+what will do soon
+invoke two cubes on the screen

@@ -22,6 +22,7 @@ public class BasicCamera {
 	float[] mLookatMat;
 	float[] mPerspectiveMat;
 
+	int direction = 1;
 	BasicCamera()
 	{
 		mEye = new Vec3(150.0f, 25.0f, -100.f);
@@ -77,6 +78,13 @@ public class BasicCamera {
 	}
 
 	public float[] GetViewMat() {
+		if(direction==1) {
+			MoveForward(0.2f);
+			if(mAt.z<-10) direction = 0;
+		}else if(direction ==0){
+			MoveBackward(0.2f);
+			if(mAt.z>10) direction = 1;
+		}
 		Matrix.setLookAtM(mLookatMat, 0,
 				mEye.x, mEye.y, mEye.z,
 				mAt.x, mAt.y, mAt.z,

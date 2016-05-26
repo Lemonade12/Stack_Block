@@ -314,14 +314,6 @@ public class BasicRenderer {
 		float[] farray = new float[4*4];
 		FloatBuffer fb = FloatBuffer.allocate(4 * 4);
 		float angle = (float)Math.PI / 2;
-
-		if(direction==1) {
-			mCamera.MoveForward(0.2f);
-			if(mCamera.mAt.z<-10) direction = 0;
-		}else if(direction ==0){
-			mCamera.MoveBackward(0.2f);
-			if(mCamera.mAt.z>10) direction = 1;
-		}
 		if (mIsTouchOn)
 		{
 			if(1000<=mTouchPoint.x && mTouchPoint.x<=1300 && 300<=mTouchPoint.y && mTouchPoint.y<=600 && (ancPts.x<1000 || ancPts.x>1300) && (ancPts.y<300 || ancPts.y>600)) {

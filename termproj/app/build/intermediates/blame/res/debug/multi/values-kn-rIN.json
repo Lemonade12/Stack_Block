@@ -770,7 +770,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+        "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
         "map": [
             {
                 "to": {
@@ -781,7 +785,11 @@
                     "endOffset": 168
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -800,7 +808,11 @@
                     "endOffset": 276
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -819,7 +831,11 @@
                     "endOffset": 399
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -838,7 +854,11 @@
                     "endOffset": 511
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -857,7 +877,11 @@
                     "endOffset": 624
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -876,7 +900,11 @@
                     "endOffset": 712
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -895,7 +923,11 @@
                     "endOffset": 819
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -914,7 +946,11 @@
                     "endOffset": 946
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -933,7 +969,11 @@
                     "endOffset": 1023
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -952,7 +992,11 @@
                     "endOffset": 1100
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -971,7 +1015,11 @@
                     "endOffset": 1182
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -990,7 +1038,11 @@
                     "endOffset": 1298
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1009,7 +1061,11 @@
                     "endOffset": 1409
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1028,7 +1084,11 @@
                     "endOffset": 1508
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1047,7 +1107,11 @@
                     "endOffset": 1621
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1066,7 +1130,11 @@
                     "endOffset": 1725
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1085,7 +1153,11 @@
                     "endOffset": 1839
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1104,7 +1176,11 @@
                     "endOffset": 1965
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1123,7 +1199,11 @@
                     "endOffset": 2065
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1142,7 +1222,11 @@
                     "endOffset": 2166
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-kn-rIN\\values-kn-rIN.xml",
+>>>>>>> e8e9d069ec176466ed3b103d21056885520b8101
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,

@@ -313,7 +313,7 @@ public class BasicRenderer {
 	{
 		float[] farray = new float[4*4];
 		FloatBuffer fb = FloatBuffer.allocate(4 * 4);
-		float angle = 90;
+		float angle = (float)Math.PI / 2;
 
 		Vector3f axisincamera = new Vector3f(0, mCamera.GetEye().y - mCamera.GetAt().y, 0);
 		Matrix4f viewMat = new Matrix4f();

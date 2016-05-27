@@ -15,7 +15,7 @@ public class BasicCamera {
 	Vec3 mAngle;
 
 	float m_zNear;
-	float m_zFar;;
+	float m_zFar;
 
 	Vec3 mAt;
 
@@ -198,6 +198,7 @@ public class BasicCamera {
 
 	void MoveForward(float vel)
 	{
+
 		Vec3 abc = new Vec3(0,0,25);
 		Vec3 dir = Vec3.sub(mAt, abc);
 		dir.normalize().mul(vel);

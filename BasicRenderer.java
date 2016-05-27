@@ -81,10 +81,7 @@ public class BasicRenderer {
 	// Texture object id
 	int[] mTexId = {0};
 
-	double prevTime = System.currentTimeMillis();
-	float deltaTime;
-	float accumTime;
-	double cubespeed = 0.2f;
+	int direction = 1;
 
 	public BasicRenderer() {
 		mWidth = 0;
@@ -336,10 +333,14 @@ public class BasicRenderer {
 		viewMat.invert(invertviewMat);//viewMat을 역함수화
 		world2object.mul(invertviewMat,camera2object);//worldMat의 역함수 * viewMat의 역함수
 		c2oMat3.set(camera2object);//camera2object를 Mat3형식으로 바꾼다		.
-		if(Time()==0) {
+		if(direction==1) {
+			System.out.println("mAt:x" +mCamera.mAt.x  +"mAt:y" +mCamera.mAt.z +"mAt:z"+mCamera.mAt.z );
 			mCamera.MoveForward(0.2f);
-		}else{
+			if(mCamera.mAt.z<-10) direction = 0;
+		}else if(direction ==0){
+			System.out.println("mAt:x" + mCamera.mAt.x + "mAt:y" + mCamera.mAt.z + "mAt:z"+mCamera.mAt.z );
 			mCamera.MoveBackward(0.2f);
+			if(mCamera.mAt.z>10) direction = 1;
 		}
 		if (mIsTouchOn)
 		{
@@ -392,18 +393,7 @@ public class BasicRenderer {
 
 		return outArray;
 	}
-	int Time(){
-		double currTime = System.currentTimeMillis();
-		deltaTime = (float) (currTime - prevTime); // milliseconds
-		System.out.println(currTime +" prev:" +prevTime +" delta:" +deltaTime);
-		if(deltaTime > 3000.0f) {
-			if(deltaTime>6000.0f){
-				prevTime = currTime;
-			}
-			return 1;
-		}
-		return 0;
-	}
+
 	void PassUniform() {
 //		float[] worldMat = new float[16];
 //		Matrix.setIdentityM(worldMat, 0);

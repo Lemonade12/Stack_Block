@@ -81,10 +81,7 @@ public class BasicRenderer {
 	// Texture object id
 	int[] mTexId = {0};
 
-	double prevTime = System.currentTimeMillis();
-	float deltaTime;
-	float accumTime;
-	double cubespeed = 0.2f;
+	int direction = 0;
 
 	public BasicRenderer() {
 		mWidth = 0;
@@ -317,33 +314,28 @@ public class BasicRenderer {
 		float[] farray = new float[4*4];
 		FloatBuffer fb = FloatBuffer.allocate(4 * 4);
 		float angle = (float)Math.PI / 2;
-
-		Vector3f axisincamera = new Vector3f(0, mCamera.GetEye().y - mCamera.GetAt().y, 0);
-		Matrix4f viewMat = new Matrix4f();
-		viewMat.set(mCamera.GetViewMat());//Mat4형식으로 viewMat을 저장
-		axisincamera.mulDirection(viewMat);
-
-					/*회전하기 직전상태의 worldMat의 역함수를 구하는과정*/
-		Quaternionf temp = new Quaternionf(startRotQuat); // startRotQuat를 저장하기위해 임시생성
-		Matrix4f world2object = new Matrix4f();
-		Matrix4f camera2object = new Matrix4f();
-		world2object.set(startRotQuat.invert(temp)); // 회전하기전의 최근의 worldMat의 역함수를 저장한다
-
-					/*viewMat의 역함수를 구하는과정*/
-		Matrix4f invertviewMat = new Matrix4f();
-		Matrix3f c2oMat3 = new Matrix3f();
-
-		viewMat.invert(invertviewMat);//viewMat을 역함수화
-		world2object.mul(invertviewMat,camera2object);//worldMat의 역함수 * viewMat의 역함수
-		c2oMat3.set(camera2object);//camera2object를 Mat3형식으로 바꾼다		.
-		if(Time()==0) {
-			mCamera.MoveForward(0.2f);
-		}else{
-			mCamera.MoveBackward(0.2f);
-		}
 		if (mIsTouchOn)
 		{
 			if(1000<=mTouchPoint.x && mTouchPoint.x<=1300 && 300<=mTouchPoint.y && mTouchPoint.y<=600 && (ancPts.x<1000 || ancPts.x>1300) && (ancPts.y<300 || ancPts.y>600)) {
+				Vector3f axisincamera = new Vector3f(0, mCamera.GetEye().y - mCamera.GetAt().y, 0);
+				Matrix4f viewMat = new Matrix4f();
+				viewMat.set(mCamera.GetViewMat());//Mat4형식으로 viewMat을 저장
+				axisincamera.mulDirection(viewMat);
+
+					/*회전하기 직전상태의 worldMat의 역함수를 구하는과정*/
+				Quaternionf temp = new Quaternionf(startRotQuat); // startRotQuat를 저장하기위해 임시생성
+				Matrix4f world2object = new Matrix4f();
+				Matrix4f camera2object = new Matrix4f();
+				world2object.set(startRotQuat.invert(temp)); // 회전하기전의 최근의 worldMat의 역함수를 저장한다
+
+					/*viewMat의 역함수를 구하는과정*/
+				Matrix4f invertviewMat = new Matrix4f();
+				Matrix3f c2oMat3 = new Matrix3f();
+
+				viewMat.invert(invertviewMat);//viewMat을 역함수화
+				world2object.mul(invertviewMat,camera2object);//worldMat의 역함수 * viewMat의 역함수
+				c2oMat3.set(camera2object);//camera2object를 Mat3형식으로 바꾼다
+
 				Vector3f axisinobject = new Vector3f();
 				axisinobject = axisincamera.mul(c2oMat3);//cameraspace에서 objectspace로 이동시켜주는 Mat3와 위에서 구한 터치이동방향의 crossvector를 곱한다
 				/*위에서 구한 axisinobect 축을 중심으로 ANLGLE만큼 회전*/
@@ -392,18 +384,7 @@ public class BasicRenderer {
 
 		return outArray;
 	}
-	int Time(){
-		double currTime = System.currentTimeMillis();
-		deltaTime = (float) (currTime - prevTime); // milliseconds
-		System.out.println(currTime +" prev:" +prevTime +" delta:" +deltaTime);
-		if(deltaTime > 3000.0f) {
-			if(deltaTime>6000.0f){
-				prevTime = currTime;
-			}
-			return 1;
-		}
-		return 0;
-	}
+
 	void PassUniform() {
 //		float[] worldMat = new float[16];
 //		Matrix.setIdentityM(worldMat, 0);

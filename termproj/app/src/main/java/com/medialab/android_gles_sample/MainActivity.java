@@ -22,7 +22,7 @@ public class MainActivity extends ListActivity {
         setContentView(R.layout.activity_main);
 
         mSamples = new ArrayList<>();
-        mSamples.add(new ListItem("[HW1] Color Teapot",                ViewType.VIEW_COLOR));
+        mSamples.add(new ListItem("[HW1] Term Project",                ViewType.VIEW_COLOR));
         mSamples.add(new ListItem("[HW2] Per-Fragment Lighting",       ViewType.VIEW_FRAG_LIGHT));
 
         ArrayAdapter<ListItem> adapter = new ArrayAdapter<>(this,

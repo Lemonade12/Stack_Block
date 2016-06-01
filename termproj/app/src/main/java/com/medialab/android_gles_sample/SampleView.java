@@ -6,13 +6,14 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Button;
 
 import com.medialab.android_gles_sample.renderer.BasicRenderer;
 
 public abstract class SampleView extends Activity {
     private GLView mGLView;
     private GLViewCallback mGLViewCallback;
-    protected BasicRenderer mRenderer;
+    public BasicRenderer mRenderer;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,10 +23,18 @@ public abstract class SampleView extends Activity {
         mGLViewCallback = new GLViewCallback(this);
         mRenderer = new BasicRenderer();
 
-
         mGLView.setRenderer(mGLViewCallback);
+
         setContentView(mGLView);
+
         addUi();
+        Button btn = (Button)findViewById(R.id.button);
+        btn.setOnClickListener(new Button.OnClickListener() {
+            public void onClick(View v) {
+                mRenderer.ButtonClick();
+            }
+        });
+
 
     }
 
@@ -64,6 +73,9 @@ public abstract class SampleView extends Activity {
             case MotionEvent.ACTION_DOWN:
                 mRenderer.TouchOn();
                 mRenderer.SetTouchPoint(e.getX(), e.getY());
+                break;
+            case MotionEvent.ACTION_BUTTON_PRESS:
+                System.out.println("pressed");
                 break;
         }
 

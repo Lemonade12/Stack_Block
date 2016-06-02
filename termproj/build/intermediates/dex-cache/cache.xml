@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\user\Desktop\Computer Graphics\term\Stack_Block\termproj\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="C:\Users\user\Desktop\Computer Graphics\term\Stack_Block\termproj\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_36f14f0a1c857bdc6352dc5f88c71d2a3bec237e.jar" />
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\user\Desktop\Computer Graphics\term\Stack_Block\termproj\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_006ce85cced6eb823a57555fe4999c1641a59cea.jar" />
     </item>
     <item
         jar="C:\Users\user\Desktop\Computer Graphics\term\Stack_Block\termproj\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
@@ -23,11 +23,11 @@
         <dex dex="C:\Users\user\Desktop\Computer Graphics\term\Stack_Block\termproj\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_29ec874455a4f4a6832e67f409daed7cb724de7b.jar" />
     </item>
     <item
-        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jar="C:\Users\user\Desktop\Computer Graphics\term\Stack_Block\termproj\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="C:\Users\user\Desktop\Computer Graphics\term\Stack_Block\termproj\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_006ce85cced6eb823a57555fe4999c1641a59cea.jar" />
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\user\Desktop\Computer Graphics\term\Stack_Block\termproj\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_36f14f0a1c857bdc6352dc5f88c71d2a3bec237e.jar" />
     </item>
 
 </items>

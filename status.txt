@@ -5,4 +5,5 @@
 2주차
 1.cube를 회전할때 FPS가 급격히 떨어지던 단점 개선
 2.button을 눌러야 cube가 회전하도록 구현
+3.화면 touch시 움직이던 block 멈춤
 

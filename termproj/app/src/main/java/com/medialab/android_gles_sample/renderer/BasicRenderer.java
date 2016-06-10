@@ -190,8 +190,10 @@ public class BasicRenderer {
 		BasicUtils.CheckGLerror("glClear");
 
 		PassUniform();
-
-		Draw();
+		for (int i = 0; i < 3; i++) {
+			mShader.SetUniform("relPos", 0, 4*i, 0);
+			Draw();
+		}
 	}
 
 	/*****************************

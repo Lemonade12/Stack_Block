@@ -1,5 +1,6 @@
 uniform mat4 worldMat, viewMat, projMat, invTransWorldMat;
 uniform vec3 eyePos, lightPos;
+uniform vec3 relPos;
 
 attribute vec3 position;
 attribute vec3 normal;
@@ -11,7 +12,7 @@ varying vec3 v_lightDir, v_viewDir;
 
 
 void main() {
-    gl_Position = projMat * viewMat * worldMat * vec4(position, 1.0);
+    gl_Position = projMat * viewMat * worldMat * vec4(position+relPos, 1.0);
     v_normal = mat3(worldMat) * normal;
     v_texCoord = texCoord;
 

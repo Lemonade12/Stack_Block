@@ -400,12 +400,14 @@ public class BasicRenderer {
 		mShader.SetUniform("s_tex0", 0);
 		mShader.SetUniform("eyePos", mCamera.GetEye());
 		mShader.SetUniform("lightPos", 50.0f, 50.0f, 50.0f);
-		mShader.SetUniform("materialDiff", 0.8f, 1.0f, 0.7f);
+		mShader.SetUniform("materialDiff", 1.0f, 1.0f, 1.0f);
+		//mShader.SetUniform("materialDiff", 0.8f, 1.0f, 0.7f);
 		mShader.SetUniform("materialSpec", 0.8f, 1.0f, 0.7f);
 		mShader.SetUniform("materialAmbi", 0.0f, 0.0f, 0.0f);
 		mShader.SetUniform("materialEmit", 0.0f, 0.0f, 0.0f);
 		mShader.SetUniform("materialSh", 100.0f);
-		mShader.SetUniform("sourceDiff", 0.7f, 0.7f, 0.7f);
+		mShader.SetUniform("sourceDiff", 1.0f, 1.0f, 1.0f);
+		//mShader.SetUniform("sourceDiff", 0.7f, 0.7f, 0.7f);
 		mShader.SetUniform("sourceSpec", 1.0f, 1.0f, 1.0f);
 		mShader.SetUniform("sourceAmbi", 0.0f, 0.0f, 0.0f);
 	}

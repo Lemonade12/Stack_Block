@@ -1,9 +1,9 @@
 package com.medialab.android_gles_sample.sample;
 
+import com.medialab.android_gles_sample.R;
 import com.medialab.android_gles_sample.SampleView;
-import com.medialab.android_gles_sample.joml.Matrix4f;
-import com.medialab.android_gles_sample.joml.Vector4f;
 import com.medialab.android_gles_sample.renderer.FileLoader;
+import com.medialab.android_gles_sample.renderer.TexData;
 
 import java.io.InputStream;
 
@@ -19,11 +19,11 @@ public class ColoringView extends SampleView {
 
 		InputStream teapot = FileLoader.GetStream(this, "obj3d/teapot");
 
-	//	TexData[] textJ = new TexData[1];
-	//	textJ[0] = FileLoader.ReadTexture(this, R.drawable.tex_c_brick);
+	    TexData[] textJ = new TexData[1];
+	    textJ[0] = FileLoader.ReadTexture(this, R.drawable.andro);
 
 		mRenderer.SetNewModel(teapot);
-	//	mRenderer.SetTexture(TexData.Type.TEXDATA_GENERAL, textJ);
+	    mRenderer.SetTexture(TexData.Type.TEXDATA_GENERAL, textJ);
 
 		mRenderer.Initialize();
 

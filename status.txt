@@ -11,3 +11,6 @@
 3주차
 1. texturing blcok / apply andro.jpg
 2. block 여러개 생성
+--------------------------------------------------------
+4주차
+1. touch시 block이 쌓임

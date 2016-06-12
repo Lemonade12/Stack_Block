@@ -87,6 +87,8 @@ public class BasicRenderer {
 	int[] mTexId = {0};
 
 	int direction = 0;
+	float vel = 0.2f;
+	float a = 0;
 
 	boolean buttonclick = false;
 	int save=1;
@@ -192,7 +194,7 @@ public class BasicRenderer {
 
 		PassUniform();
 		for(i=0;i<save;i++) {
-			mShader.SetUniform("relPos", 0, 4 * i, 0);
+			mShader.SetUniform("relPos", 0, 8 * i, 0);
 			Draw();
 		}
 	}
@@ -319,20 +321,19 @@ public class BasicRenderer {
 		return P;
 	}
 
-	float[] GetWorldMatrix()
-	{
-		float[] farray = new float[4*4];
+	float[] GetWorldMatrix() {
+		float[] farray = new float[4 * 4];
 		FloatBuffer fb = FloatBuffer.allocate(4 * 4);
 
-		float angle = (float)Math.PI / 2;
+		float angle = (float) Math.PI / 2;
 
-		if(buttonclick) {
+		if (buttonclick) {
 			Vector3f va = GetArcballVector(ancPts);
 			Vector3f vb = GetArcballVector(mTouchPoint);
 			Matrix4f viewmat = new Matrix4f();
 			viewmat.set(mCamera.GetViewMat());
 
-			Vector3f axisInCameraSpace = new Vector3f(0,1,0);
+			Vector3f axisInCameraSpace = new Vector3f(0, 1, 0);
 			axisInCameraSpace.mulDirection(viewmat);
 
 			fb.put(GetCamera().GetViewMat());
@@ -345,35 +346,39 @@ public class BasicRenderer {
 			buttonclick = false;
 		}
 
-		if (mIsTouchOn)
-		{
+		if (mIsTouchOn) {
 			System.out.println("dsaf");
 			BasicCamera.mIsTouchOn = true;
-			if (!isUpdateAnc)
-			{
+			if (!isUpdateAnc) {
 				ancPts.set(mTouchPoint);
 				isUpdateAnc = true;
 				Log.i(TAG, "Anchor Updated\n");
-			}
-			else
-			{
-				if ((mTouchPoint.x>=ancPts.x-10 && mTouchPoint.x<=ancPts.x+10) ||(mTouchPoint.y>=ancPts.y-10 && mTouchPoint.y<=ancPts.y+10))
-				{
+			} else {
+				if ((mTouchPoint.x >= ancPts.x - 10 && mTouchPoint.x <= ancPts.x + 10) && (mTouchPoint.y >= ancPts.y - 10 && mTouchPoint.y <= ancPts.y + 10)) {
+					direction = -1;
 					save++;
-					ancPts.x = -1;
-					ancPts.y = -1;
+					ancPts.x = -9999;
+					ancPts.y = -9999;
 				}
 			}
-		}
-		else
-		{
+		} else {
 			ancPts.x = 0;
 			ancPts.y = 0;
 			startRotQuat = lastRotQuat;
 			isUpdateAnc = false;
 		}
 		Matrix4f rotationMat = new Matrix4f();
+
 		lastRotQuat.get(rotationMat);
+		if (direction == 0){
+			a += vel;
+			rotationMat.mytranslation(0, 0, a);
+			if(a>=10) direction = 1;
+		}else if(direction == 1){
+			a -= vel;
+			rotationMat.mytranslation(0, 0, a);
+			if(a<=-10) direction = 0;
+		}
 		rotationMat.get(farray);
 
 		return farray;

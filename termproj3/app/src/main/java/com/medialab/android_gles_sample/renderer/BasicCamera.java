@@ -83,18 +83,7 @@ public class BasicCamera {
 	}
 
 	public float[] GetViewMat() {
-		if(mIsTouchOn){
-			direction=2;
-		}
-		else{
-			if(direction==1) {
-				MoveForward(0.2f);
-				if(mAt.z<-10) direction = 0;
-			}else if(direction ==0){
-				MoveBackward(0.2f);
-				if(mAt.z>10) direction = 1;
-			}
-		}
+
 
 
 		Matrix.setLookAtM(mLookatMat, 0,

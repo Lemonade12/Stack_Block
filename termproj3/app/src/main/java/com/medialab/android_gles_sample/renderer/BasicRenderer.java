@@ -87,11 +87,14 @@ public class BasicRenderer {
 	int[] mTexId = {0};
 
 	int direction = 0;
-	float vel = 0.2f;
-	float a = 0;
+	float vel = 0.15f;
+	float a = 0.0f; // translation위해 임시 변수
+	float zpos;
 
 	boolean buttonclick = false;
 	int save=1;
+	int numofclick = 0;
+
 	public BasicRenderer() {
 		mWidth = 0;
 		mHeight = 0;
@@ -194,7 +197,7 @@ public class BasicRenderer {
 
 		PassUniform();
 		for(i=0;i<save;i++) {
-			mShader.SetUniform("relPos", 0, 8 * i, 0);
+			mShader.SetUniform("relPos", 0, 8 * i, zpos);
 			Draw();
 		}
 	}
@@ -356,6 +359,7 @@ public class BasicRenderer {
 			} else {
 				if ((mTouchPoint.x >= ancPts.x - 10 && mTouchPoint.x <= ancPts.x + 10) && (mTouchPoint.y >= ancPts.y - 10 && mTouchPoint.y <= ancPts.y + 10)) {
 					direction = -1;
+					zpos = a;
 					save++;
 					ancPts.x = -9999;
 					ancPts.y = -9999;
@@ -547,7 +551,7 @@ public class BasicRenderer {
 		mIsTouchOn = true;
 	}
 
-	public void ButtonClick() { System.out.println("pressed");buttonclick = true;}
+	public void ButtonClick() {numofclick = (numofclick + 1)%4; System.out.println("pressed");buttonclick = true;}
 
 	public void TouchOff() {
 		mIsTouchOn = false;

@@ -12,7 +12,7 @@ varying vec3 v_lightDir, v_viewDir;
 
 
 void main() {
-    gl_Position = projMat * viewMat * worldMat * vec4(position+relPos, 1.0);
+    gl_Position = projMat * viewMat * ((worldMat * vec4(position, 1.0)) +vec4(relPos, 0.0));
     v_normal = mat3(worldMat) * normal;
     v_texCoord = texCoord;
 

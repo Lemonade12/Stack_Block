@@ -11,3 +11,7 @@
 3주차
 1. texturing blcok / apply andro.jpg
 2. block 여러개 생성
+--------------------------------------------------------
+4주차
+1. touch시 block이 하나씩 쌓임
+2. 기존에 잘못된 translation 방법 수정(이전에는 Camera를 움직이는것으로 하였으나 worldmat을 바꾸는것으로 수정) 

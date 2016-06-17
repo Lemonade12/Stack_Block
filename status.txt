@@ -17,3 +17,4 @@
 2. 기존에 잘못된 translation 방법 수정(이전에는 Camera를 움직이는것으로 하였으나 worldmat을 바꾸는것으로 수정) 
 3. block이 stop된 위치에 그려지도록 구현
 4. rotation시 translation도 같이 바뀌던 현상 수정(relpos를 world space상에서 더하도록한다.)
+5. block을 쌓을때마다 시점을 위로 올려준다.(test중)

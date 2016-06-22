@@ -1,7 +1,10 @@
 [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "outputFile": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
         "map": [
             {
@@ -387,6 +390,9 @@
         ]
     },
     {
+<<<<<<< HEAD
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+=======
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
         "map": [
@@ -774,10 +780,14 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "outputFile": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
 =======
         "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+=======
+        "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "map": [
             {
                 "to": {
@@ -789,7 +799,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -812,7 +826,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -835,7 +853,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -858,7 +880,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -881,7 +907,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -904,7 +934,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -927,7 +961,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -950,7 +988,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -973,7 +1015,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -996,7 +1042,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1019,7 +1069,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1042,7 +1096,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1065,7 +1123,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1088,7 +1150,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1111,7 +1177,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1134,7 +1204,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1157,7 +1231,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1180,7 +1258,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1203,7 +1285,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1226,7 +1312,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1242,11 +1332,15 @@
         ]
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
         "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
 =======
         "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+=======
+        "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "map": [
             {
                 "to": {
@@ -1258,7 +1352,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1281,7 +1379,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1304,7 +1406,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1327,7 +1433,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1350,7 +1460,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1373,7 +1487,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1396,7 +1514,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1419,7 +1541,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1442,7 +1568,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1465,7 +1595,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1488,7 +1622,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1511,7 +1649,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1534,7 +1676,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1557,7 +1703,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1580,7 +1730,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1603,7 +1757,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1626,7 +1784,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1649,7 +1811,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1672,7 +1838,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1695,7 +1865,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1712,7 +1886,11 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
+=======
+        "outputFile": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
         "outputFile": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1727,7 +1905,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1750,7 +1932,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1773,7 +1959,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1796,7 +1986,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1819,7 +2013,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1842,7 +2040,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1865,7 +2067,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1888,7 +2094,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1911,7 +2121,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1934,7 +2148,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1957,7 +2175,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -1980,7 +2202,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2003,7 +2229,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2026,7 +2256,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2049,7 +2283,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2072,7 +2310,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2095,7 +2337,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2118,7 +2364,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2141,7 +2391,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2164,7 +2418,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2181,7 +2439,11 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
+=======
+        "outputFile": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
         "outputFile": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2196,7 +2458,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2219,7 +2485,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2242,7 +2512,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2265,7 +2539,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2288,7 +2566,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2311,7 +2593,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2334,7 +2620,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2357,7 +2647,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2380,7 +2674,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2403,7 +2701,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2426,7 +2728,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2449,7 +2755,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2472,7 +2782,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2495,7 +2809,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2518,7 +2836,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2541,7 +2863,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2564,7 +2890,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2587,7 +2917,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2610,7 +2944,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -2633,7 +2971,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3035,7 +3377,11 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
+=======
+        "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
         "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3050,7 +3396,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3073,7 +3423,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3096,7 +3450,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3119,7 +3477,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3142,7 +3504,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3165,7 +3531,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3188,7 +3558,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3211,7 +3585,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3234,7 +3612,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3257,7 +3639,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3280,7 +3666,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3303,7 +3693,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3326,7 +3720,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3349,7 +3747,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3372,7 +3774,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3395,7 +3801,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3418,7 +3828,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3441,7 +3855,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3464,7 +3882,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
@@ -3487,7 +3909,11 @@
                 },
                 "from": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-en-rGB\\values-en-rGB.xml",
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498

@@ -18,6 +18,10 @@
 3. block이 stop된 위치에 그려지도록 구현
 4. rotation시 translation도 같이 바뀌던 현상 수정(relpos를 world space상에서 더하도록한다.)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+5. block을 쌓을때마다 시점을 위로 올려준다.(test중)
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
 5. block을 쌓을때마다 시점을 위로 올려준다.(test중)
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498

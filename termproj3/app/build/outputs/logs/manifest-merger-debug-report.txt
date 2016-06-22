@@ -1,6 +1,7 @@
 -- Merging decision tree log ---
 manifest
 <<<<<<< HEAD
+<<<<<<< HEAD
 ADDED from C:\Users\zakelstorm\Desktop\termproj3\app\src\main\AndroidManifest.xml:1:1-23:12
 	xmlns:android
 		ADDED from C:\Users\zakelstorm\Desktop\termproj3\app\src\main\AndroidManifest.xml:2:5-63
@@ -63,6 +64,8 @@ MERGED from [com.android.support:support-v4:23.1.1] C:\Users\zakelstorm\Desktop\
 		INJECTED from C:\Users\zakelstorm\Desktop\termproj3\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\zakelstorm\Desktop\termproj3\app\src\main\AndroidManifest.xml
 =======
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 ADDED from C:\Users\user\Desktop\Stack_Block-branch6\Stack_Block-branch6\termproj3\app\src\main\AndroidManifest.xml:1:1-23:12
 	xmlns:android
 		ADDED from C:\Users\user\Desktop\Stack_Block-branch6\Stack_Block-branch6\termproj3\app\src\main\AndroidManifest.xml:2:5-63
@@ -124,4 +127,7 @@ MERGED from [com.android.support:support-v4:23.1.1] C:\Users\user\Desktop\Stack_
 	android:minSdkVersion
 		INJECTED from C:\Users\user\Desktop\Stack_Block-branch6\Stack_Block-branch6\termproj3\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\user\Desktop\Stack_Block-branch6\Stack_Block-branch6\termproj3\app\src\main\AndroidManifest.xml
+<<<<<<< HEAD
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+=======
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498

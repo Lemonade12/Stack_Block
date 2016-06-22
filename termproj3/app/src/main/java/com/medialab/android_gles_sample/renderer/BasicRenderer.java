@@ -198,7 +198,11 @@ public class BasicRenderer {
 		PassUniform();
 		for(i=0;i<save;i++) {
 <<<<<<< HEAD:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
+<<<<<<< HEAD:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
 			mShader.SetUniform("relPos", 0, 8 * i, zpos);
+=======
+			mShader.SetUniform("relPos", 0, 4 * i, zpos);
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
 =======
 			mShader.SetUniform("relPos", 0, 4 * i, zpos);
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
@@ -356,7 +360,11 @@ public class BasicRenderer {
 		if (mIsTouchOn) {
 			System.out.println("dsaf");
 <<<<<<< HEAD:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
+<<<<<<< HEAD:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
 			BasicCamera.mIsTouchOn = true;
+=======
+
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
 =======
 
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
@@ -372,6 +380,10 @@ public class BasicRenderer {
 					ancPts.x = -9999;
 					ancPts.y = -9999;
 <<<<<<< HEAD:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
+<<<<<<< HEAD:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
+=======
+					BasicCamera.mIsTouchOn = true;//여기
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
 =======
 					BasicCamera.mIsTouchOn = true;//여기
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java

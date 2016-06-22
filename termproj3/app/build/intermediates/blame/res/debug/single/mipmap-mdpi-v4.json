@@ -17,19 +17,30 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+<<<<<<< HEAD
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+=======
 >>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
@@ -41,8 +52,13 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
 =======
         "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"

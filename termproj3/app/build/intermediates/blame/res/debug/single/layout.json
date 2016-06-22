@@ -1,13 +1,17 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
     },
@@ -22,12 +26,27 @@
     {
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+=======
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
     },
@@ -36,6 +55,7 @@
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
@@ -50,12 +70,21 @@
     {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
@@ -64,6 +93,8 @@
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_ui.xml",
         "source": "C:\\cg\\term test\\termproj\\app\\src\\main\\res\\layout\\sample_ui.xml"
     },
@@ -80,6 +111,7 @@
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
@@ -100,6 +132,8 @@
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
     },
@@ -108,6 +142,7 @@
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
@@ -116,12 +151,19 @@
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+=======
+        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_ui.xml",
@@ -136,6 +178,7 @@
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
     },
@@ -148,6 +191,8 @@
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\src\\main\\res\\layout\\sample_ui.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
@@ -160,12 +205,310 @@
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_ui.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\src\\main\\res\\layout\\sample_ui.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+=======
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_ui.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\src\\main\\res\\layout\\sample_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
@@ -180,126 +523,63 @@
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
     },
@@ -320,6 +600,7 @@
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
@@ -332,38 +613,52 @@
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
     },
@@ -432,14 +727,24 @@
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
     },
@@ -460,14 +765,24 @@
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
     },
@@ -484,20 +799,37 @@
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
@@ -508,6 +840,13 @@
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
     },
@@ -516,18 +855,50 @@
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
@@ -548,14 +919,24 @@
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
     },
@@ -572,16 +953,26 @@
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+=======
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+=======
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
@@ -596,14 +987,24 @@
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
@@ -664,14 +1065,24 @@
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
     },
@@ -680,12 +1091,24 @@
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -736,14 +1159,24 @@
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
     },
@@ -752,22 +1185,37 @@
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+=======
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
@@ -816,18 +1264,35 @@
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_ui.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\src\\main\\res\\layout\\sample_ui.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
     },
@@ -848,14 +1313,24 @@
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
     },
@@ -864,30 +1339,55 @@
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+=======
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
@@ -912,22 +1412,41 @@
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+=======
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
     },
@@ -940,14 +1459,26 @@
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
     },
@@ -976,14 +1507,24 @@
         "source": "C:\\cg\\term test\\termproj\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_ui.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\src\\main\\res\\layout\\sample_ui.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_ui.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\src\\main\\res\\layout\\sample_ui.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
     },
@@ -996,14 +1537,26 @@
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
@@ -1012,16 +1565,26 @@
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+=======
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
@@ -1032,14 +1595,24 @@
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
@@ -1072,14 +1645,24 @@
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
@@ -1108,10 +1691,18 @@
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
@@ -1210,38 +1801,109 @@
     {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_ui.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\src\\main\\res\\layout\\sample_ui.xml"
+=======
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_ui.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\src\\main\\res\\layout\\sample_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_ui.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\src\\main\\res\\layout\\sample_ui.xml"
     },
     {
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
@@ -1252,212 +1914,100 @@
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
-    },
-    {
-        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
-    },
-    {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
     },
     {
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_ui.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\src\\main\\res\\layout\\sample_ui.xml"
     },
     {
-        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
@@ -1484,6 +2034,393 @@
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_ui.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\src\\main\\res\\layout\\sample_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+=======
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_ui.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\src\\main\\res\\layout\\sample_ui.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
@@ -1492,26 +2429,37 @@
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\src\\main\\res\\layout\\activity_main.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+=======
+        "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
@@ -1520,22 +2468,32 @@
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_ui.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\src\\main\\res\\layout\\sample_ui.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
@@ -1544,18 +2502,26 @@
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     },
     {
         "merged": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
     }

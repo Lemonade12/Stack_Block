@@ -83,9 +83,16 @@ public class BasicCamera {
 	}
 
 	public float[] GetViewMat() {
+<<<<<<< HEAD:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicCamera.java
 
 
 
+=======
+		if(mIsTouchOn){
+			mEye.y += 2.0f;
+			mAt.y +=2.0f;
+		}//여기
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicCamera.java
 		Matrix.setLookAtM(mLookatMat, 0,
 				mEye.x, mEye.y, mEye.z,
 				mAt.x, mAt.y, mAt.z,

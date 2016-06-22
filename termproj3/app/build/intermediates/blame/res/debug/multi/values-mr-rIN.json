@@ -385,7 +385,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+        "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "map": [
             {
                 "to": {
@@ -396,7 +400,11 @@
                     "endOffset": 168
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -415,7 +423,11 @@
                     "endOffset": 276
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -434,7 +446,11 @@
                     "endOffset": 399
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -453,7 +469,11 @@
                     "endOffset": 505
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -472,7 +492,11 @@
                     "endOffset": 612
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -491,7 +515,11 @@
                     "endOffset": 702
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -510,7 +538,11 @@
                     "endOffset": 803
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -529,7 +561,11 @@
                     "endOffset": 918
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -548,7 +584,11 @@
                     "endOffset": 995
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -567,7 +607,11 @@
                     "endOffset": 1073
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -586,7 +630,11 @@
                     "endOffset": 1153
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -605,7 +653,11 @@
                     "endOffset": 1265
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -624,7 +676,11 @@
                     "endOffset": 1367
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -643,7 +699,11 @@
                     "endOffset": 1463
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -662,7 +722,11 @@
                     "endOffset": 1572
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -681,7 +745,11 @@
                     "endOffset": 1673
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -700,7 +768,11 @@
                     "endOffset": 1788
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -719,7 +791,11 @@
                     "endOffset": 1911
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -738,7 +814,11 @@
                     "endOffset": 2016
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -757,7 +837,11 @@
                     "endOffset": 2117
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -770,7 +854,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+        "outputFile": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "map": [
             {
                 "to": {
@@ -781,7 +869,11 @@
                     "endOffset": 168
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -800,7 +892,11 @@
                     "endOffset": 276
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -819,7 +915,11 @@
                     "endOffset": 399
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -838,7 +938,11 @@
                     "endOffset": 505
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -857,7 +961,11 @@
                     "endOffset": 612
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -876,7 +984,11 @@
                     "endOffset": 702
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -895,7 +1007,11 @@
                     "endOffset": 803
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -914,7 +1030,11 @@
                     "endOffset": 918
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -933,7 +1053,11 @@
                     "endOffset": 995
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -952,7 +1076,11 @@
                     "endOffset": 1073
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -971,7 +1099,11 @@
                     "endOffset": 1153
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -990,7 +1122,11 @@
                     "endOffset": 1265
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1009,7 +1145,11 @@
                     "endOffset": 1367
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1028,7 +1168,11 @@
                     "endOffset": 1463
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1047,7 +1191,11 @@
                     "endOffset": 1572
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1066,7 +1214,11 @@
                     "endOffset": 1673
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1085,7 +1237,11 @@
                     "endOffset": 1788
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1104,7 +1260,11 @@
                     "endOffset": 1911
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1123,7 +1283,11 @@
                     "endOffset": 2016
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1142,7 +1306,11 @@
                     "endOffset": 2117
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+=======
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -3080,6 +3248,394 @@
         ]
     },
     {
+<<<<<<< HEAD
+=======
+        "outputFile": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-mr-rIN\\values-mr-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 117,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 117,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 107,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 107,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 122,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endColumn": 122,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 105,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 105,
+                        "endOffset": 683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 106,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endColumn": 106,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 89,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 89,
+                        "endOffset": 880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 100,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 885,
+                        "endColumn": 100,
+                        "endOffset": 981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 114,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endColumn": 114,
+                        "endOffset": 1096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 76,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1101,
+                        "endColumn": 76,
+                        "endOffset": 1173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 77,
+                    "endOffset": 1073
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1178,
+                        "endColumn": 77,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1078,
+                    "endColumn": 79,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1256,
+                        "endColumn": 79,
+                        "endOffset": 1331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 111,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1336,
+                        "endColumn": 111,
+                        "endOffset": 1443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1270,
+                    "endColumn": 101,
+                    "endOffset": 1367
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1448,
+                        "endColumn": 101,
+                        "endOffset": 1545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1372,
+                    "endColumn": 95,
+                    "endOffset": 1463
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1550,
+                        "endColumn": 95,
+                        "endOffset": 1641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1468,
+                    "endColumn": 108,
+                    "endOffset": 1572
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1646,
+                        "endColumn": 108,
+                        "endOffset": 1750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1577,
+                    "endColumn": 100,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1755,
+                        "endColumn": 100,
+                        "endOffset": 1851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 114,
+                    "endOffset": 1788
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1856,
+                        "endColumn": 114,
+                        "endOffset": 1966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1793,
+                    "endColumn": 122,
+                    "endOffset": 1911
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1971,
+                        "endColumn": 122,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1916,
+                    "endColumn": 104,
+                    "endOffset": 2016
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2094,
+                        "endColumn": 104,
+                        "endOffset": 2194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2021,
+                    "endColumn": 100,
+                    "endOffset": 2117
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2199,
+                        "endColumn": 100,
+                        "endOffset": 2295
+                    }
+                }
+            }
+        ]
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-mr-rIN\\values-mr-rIN.xml",
         "map": [
             {

@@ -770,7 +770,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+        "outputFile": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "map": [
             {
                 "to": {
@@ -781,7 +785,11 @@
                     "endOffset": 161
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -800,7 +808,11 @@
                     "endOffset": 269
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -819,7 +831,11 @@
                     "endOffset": 392
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -838,7 +854,11 @@
                     "endOffset": 507
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -857,7 +877,11 @@
                     "endOffset": 618
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -876,7 +900,11 @@
                     "endOffset": 705
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -895,7 +923,11 @@
                     "endOffset": 821
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -914,7 +946,11 @@
                     "endOffset": 951
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -933,7 +969,11 @@
                     "endOffset": 1034
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -952,7 +992,11 @@
                     "endOffset": 1114
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -971,7 +1015,11 @@
                     "endOffset": 1210
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -990,7 +1038,11 @@
                     "endOffset": 1320
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1009,7 +1061,11 @@
                     "endOffset": 1432
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1028,7 +1084,11 @@
                     "endOffset": 1535
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1047,7 +1107,11 @@
                     "endOffset": 1646
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1066,7 +1130,11 @@
                     "endOffset": 1753
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1085,7 +1153,11 @@
                     "endOffset": 1855
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1104,7 +1176,11 @@
                     "endOffset": 1977
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1123,7 +1199,11 @@
                     "endOffset": 2076
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1142,7 +1222,11 @@
                     "endOffset": 2177
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1155,7 +1239,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+        "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "map": [
             {
                 "to": {
@@ -1166,7 +1254,11 @@
                     "endOffset": 161
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1185,7 +1277,11 @@
                     "endOffset": 269
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1204,7 +1300,11 @@
                     "endOffset": 392
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1223,7 +1323,11 @@
                     "endOffset": 507
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1242,7 +1346,11 @@
                     "endOffset": 618
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1261,7 +1369,11 @@
                     "endOffset": 705
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1280,7 +1392,11 @@
                     "endOffset": 821
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1299,7 +1415,11 @@
                     "endOffset": 951
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1318,7 +1438,11 @@
                     "endOffset": 1034
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1337,7 +1461,11 @@
                     "endOffset": 1114
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1356,7 +1484,11 @@
                     "endOffset": 1210
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1375,7 +1507,11 @@
                     "endOffset": 1320
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1394,7 +1530,11 @@
                     "endOffset": 1432
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1413,7 +1553,11 @@
                     "endOffset": 1535
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1432,7 +1576,11 @@
                     "endOffset": 1646
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1451,7 +1599,11 @@
                     "endOffset": 1753
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1470,7 +1622,11 @@
                     "endOffset": 1855
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1489,7 +1645,11 @@
                     "endOffset": 1977
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1508,7 +1668,11 @@
                     "endOffset": 2076
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1527,7 +1691,11 @@
                     "endOffset": 2177
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -3080,6 +3248,394 @@
         ]
     },
     {
+<<<<<<< HEAD
+=======
+        "outputFile": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 110,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 110,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 107,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 107,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endColumn": 122,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 122,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 114,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endColumn": 114,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 110,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 110,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 86,
+                    "endOffset": 705
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 86,
+                        "endOffset": 883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 710,
+                    "endColumn": 115,
+                    "endOffset": 821
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 888,
+                        "endColumn": 115,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 826,
+                    "endColumn": 129,
+                    "endOffset": 951
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endColumn": 129,
+                        "endOffset": 1129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 956,
+                    "endColumn": 82,
+                    "endOffset": 1034
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1134,
+                        "endColumn": 82,
+                        "endOffset": 1212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1039,
+                    "endColumn": 79,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1217,
+                        "endColumn": 79,
+                        "endOffset": 1292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1119,
+                    "endColumn": 95,
+                    "endOffset": 1210
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1297,
+                        "endColumn": 95,
+                        "endOffset": 1388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1215,
+                    "endColumn": 109,
+                    "endOffset": 1320
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1393,
+                        "endColumn": 109,
+                        "endOffset": 1498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1325,
+                    "endColumn": 111,
+                    "endOffset": 1432
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1503,
+                        "endColumn": 111,
+                        "endOffset": 1610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1437,
+                    "endColumn": 102,
+                    "endOffset": 1535
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1615,
+                        "endColumn": 102,
+                        "endOffset": 1713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1540,
+                    "endColumn": 110,
+                    "endOffset": 1646
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1718,
+                        "endColumn": 110,
+                        "endOffset": 1824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1651,
+                    "endColumn": 106,
+                    "endOffset": 1753
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1829,
+                        "endColumn": 106,
+                        "endOffset": 1931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1758,
+                    "endColumn": 101,
+                    "endOffset": 1855
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1936,
+                        "endColumn": 101,
+                        "endOffset": 2033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1860,
+                    "endColumn": 121,
+                    "endOffset": 1977
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2038,
+                        "endColumn": 121,
+                        "endOffset": 2155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1982,
+                    "endColumn": 98,
+                    "endOffset": 2076
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2160,
+                        "endColumn": 98,
+                        "endOffset": 2254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2081,
+                    "endColumn": 100,
+                    "endOffset": 2177
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2259,
+                        "endColumn": 100,
+                        "endOffset": 2355
+                    }
+                }
+            }
+        ]
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
         "map": [
             {

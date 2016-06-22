@@ -615,6 +615,132 @@
         ]
     },
     {
+<<<<<<< HEAD
+=======
+        "outputFile": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 134,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 134,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 74,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endColumn": 74,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 86,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 628,
+                        "endColumn": 86,
+                        "endOffset": 710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 1268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1475
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1273,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1480,
+                    "endColumn": 104,
+                    "endOffset": 1580
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2022,
+                        "endColumn": 104,
+                        "endOffset": 2122
+                    }
+                }
+            }
+        ]
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
         "map": [
             {
@@ -861,7 +987,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
+=======
+        "outputFile": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "map": [
             {
                 "to": {
@@ -872,7 +1002,11 @@
                     "endOffset": 185
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -891,7 +1025,11 @@
                     "endOffset": 260
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -910,7 +1048,11 @@
                     "endOffset": 347
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -930,7 +1072,11 @@
                     "endOffset": 905
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -951,7 +1097,11 @@
                     "endOffset": 1475
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -971,7 +1121,11 @@
                     "endOffset": 1580
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -1107,7 +1261,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
+=======
+        "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "map": [
             {
                 "to": {
@@ -1118,7 +1276,11 @@
                     "endOffset": 185
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1137,7 +1299,11 @@
                     "endOffset": 260
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1156,7 +1322,11 @@
                     "endOffset": 347
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1176,7 +1346,11 @@
                     "endOffset": 905
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1197,7 +1371,11 @@
                     "endOffset": 1475
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1217,7 +1395,11 @@
                     "endOffset": 1580
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+=======
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v23\\values-v23.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,

@@ -770,391 +770,8 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 96,
-                    "endOffset": 147
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 96,
-                        "endOffset": 321
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 152,
-                    "endColumn": 106,
-                    "endOffset": 254
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 326,
-                        "endColumn": 106,
-                        "endOffset": 428
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 259,
-                    "endColumn": 120,
-                    "endOffset": 375
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 433,
-                        "endColumn": 120,
-                        "endOffset": 549
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 380,
-                    "endColumn": 92,
-                    "endOffset": 468
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 554,
-                        "endColumn": 92,
-                        "endOffset": 642
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 473,
-                    "endColumn": 104,
-                    "endOffset": 573
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 647,
-                        "endColumn": 104,
-                        "endOffset": 747
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 578,
-                    "endColumn": 81,
-                    "endOffset": 655
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 752,
-                        "endColumn": 81,
-                        "endOffset": 829
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 660,
-                    "endColumn": 97,
-                    "endOffset": 753
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 834,
-                        "endColumn": 97,
-                        "endOffset": 927
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 758,
-                    "endColumn": 107,
-                    "endOffset": 861
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 932,
-                        "endColumn": 107,
-                        "endOffset": 1035
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 866,
-                    "endColumn": 76,
-                    "endOffset": 938
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1040,
-                        "endColumn": 76,
-                        "endOffset": 1112
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 943,
-                    "endColumn": 75,
-                    "endOffset": 1014
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1117,
-                        "endColumn": 75,
-                        "endOffset": 1188
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1019,
-                    "endColumn": 77,
-                    "endOffset": 1092
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1193,
-                        "endColumn": 77,
-                        "endOffset": 1266
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1097,
-                    "endColumn": 101,
-                    "endOffset": 1194
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1271,
-                        "endColumn": 101,
-                        "endOffset": 1368
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1199,
-                    "endColumn": 98,
-                    "endOffset": 1293
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1373,
-                        "endColumn": 98,
-                        "endOffset": 1467
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1298,
-                    "endColumn": 94,
-                    "endOffset": 1388
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1472,
-                        "endColumn": 94,
-                        "endOffset": 1562
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1393,
-                    "endColumn": 102,
-                    "endOffset": 1491
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1567,
-                        "endColumn": 102,
-                        "endOffset": 1665
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1496,
-                    "endColumn": 94,
-                    "endOffset": 1586
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1670,
-                        "endColumn": 94,
-                        "endOffset": 1760
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1591,
-                    "endColumn": 95,
-                    "endOffset": 1682
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1765,
-                        "endColumn": 95,
-                        "endOffset": 1856
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1687,
-                    "endColumn": 110,
-                    "endOffset": 1793
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1861,
-                        "endColumn": 110,
-                        "endOffset": 1967
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1798,
-                    "endColumn": 96,
-                    "endOffset": 1890
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1972,
-                        "endColumn": 96,
-                        "endOffset": 2064
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1895,
-                    "endColumn": 100,
-                    "endOffset": 1991
-                },
-                "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2069,
-                        "endColumn": 100,
-                        "endOffset": 2165
-                    }
-                }
-            }
-        ]
-    },
-    {
+<<<<<<< HEAD
+=======
         "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
         "map": [
             {
@@ -1540,7 +1157,397 @@
         ]
     },
     {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 96,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 96,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 106,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 106,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 120,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 120,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 92,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endColumn": 92,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 104,
+                    "endOffset": 573
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 104,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endColumn": 81,
+                    "endOffset": 655
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 752,
+                        "endColumn": 81,
+                        "endOffset": 829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 660,
+                    "endColumn": 97,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 834,
+                        "endColumn": 97,
+                        "endOffset": 927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 107,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 932,
+                        "endColumn": 107,
+                        "endOffset": 1035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 76,
+                    "endOffset": 938
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1040,
+                        "endColumn": 76,
+                        "endOffset": 1112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 943,
+                    "endColumn": 75,
+                    "endOffset": 1014
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1117,
+                        "endColumn": 75,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endColumn": 77,
+                    "endOffset": 1092
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1193,
+                        "endColumn": 77,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1097,
+                    "endColumn": 101,
+                    "endOffset": 1194
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1271,
+                        "endColumn": 101,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1199,
+                    "endColumn": 98,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 98,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 94,
+                    "endOffset": 1388
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1472,
+                        "endColumn": 94,
+                        "endOffset": 1562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1393,
+                    "endColumn": 102,
+                    "endOffset": 1491
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1567,
+                        "endColumn": 102,
+                        "endOffset": 1665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1496,
+                    "endColumn": 94,
+                    "endOffset": 1586
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1670,
+                        "endColumn": 94,
+                        "endOffset": 1760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1591,
+                    "endColumn": 95,
+                    "endOffset": 1682
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1765,
+                        "endColumn": 95,
+                        "endOffset": 1856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1687,
+                    "endColumn": 110,
+                    "endOffset": 1793
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1861,
+                        "endColumn": 110,
+                        "endOffset": 1967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1798,
+                    "endColumn": 96,
+                    "endOffset": 1890
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1972,
+                        "endColumn": 96,
+                        "endOffset": 2064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1895,
+                    "endColumn": 100,
+                    "endOffset": 1991
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2069,
+                        "endColumn": 100,
+                        "endOffset": 2165
+                    }
+                }
+            }
+        ]
+    },
+    {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+=======
         "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "map": [
             {
                 "to": {
@@ -1551,7 +1558,11 @@
                     "endOffset": 147
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1570,7 +1581,11 @@
                     "endOffset": 254
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1589,7 +1604,11 @@
                     "endOffset": 375
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1608,7 +1627,11 @@
                     "endOffset": 468
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1627,7 +1650,11 @@
                     "endOffset": 573
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1646,7 +1673,11 @@
                     "endOffset": 655
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1665,7 +1696,11 @@
                     "endOffset": 753
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1684,7 +1719,11 @@
                     "endOffset": 861
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1703,7 +1742,11 @@
                     "endOffset": 938
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1722,7 +1765,11 @@
                     "endOffset": 1014
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1741,7 +1788,11 @@
                     "endOffset": 1092
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1760,7 +1811,11 @@
                     "endOffset": 1194
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1779,7 +1834,11 @@
                     "endOffset": 1293
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1798,7 +1857,11 @@
                     "endOffset": 1388
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1817,7 +1880,11 @@
                     "endOffset": 1491
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1836,7 +1903,11 @@
                     "endOffset": 1586
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1855,7 +1926,11 @@
                     "endOffset": 1682
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1874,7 +1949,11 @@
                     "endOffset": 1793
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1893,7 +1972,11 @@
                     "endOffset": 1890
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1912,7 +1995,11 @@
                     "endOffset": 1991
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1925,392 +2012,11 @@
         ]
     },
     {
-        "outputFile": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 96,
-                    "endOffset": 147
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 96,
-                        "endOffset": 321
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 152,
-                    "endColumn": 106,
-                    "endOffset": 254
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 326,
-                        "endColumn": 106,
-                        "endOffset": 428
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 259,
-                    "endColumn": 120,
-                    "endOffset": 375
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 433,
-                        "endColumn": 120,
-                        "endOffset": 549
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 380,
-                    "endColumn": 92,
-                    "endOffset": 468
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 554,
-                        "endColumn": 92,
-                        "endOffset": 642
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 473,
-                    "endColumn": 104,
-                    "endOffset": 573
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 647,
-                        "endColumn": 104,
-                        "endOffset": 747
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 578,
-                    "endColumn": 81,
-                    "endOffset": 655
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 752,
-                        "endColumn": 81,
-                        "endOffset": 829
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 660,
-                    "endColumn": 97,
-                    "endOffset": 753
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 834,
-                        "endColumn": 97,
-                        "endOffset": 927
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 758,
-                    "endColumn": 107,
-                    "endOffset": 861
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 932,
-                        "endColumn": 107,
-                        "endOffset": 1035
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 866,
-                    "endColumn": 76,
-                    "endOffset": 938
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1040,
-                        "endColumn": 76,
-                        "endOffset": 1112
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 943,
-                    "endColumn": 75,
-                    "endOffset": 1014
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1117,
-                        "endColumn": 75,
-                        "endOffset": 1188
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1019,
-                    "endColumn": 77,
-                    "endOffset": 1092
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1193,
-                        "endColumn": 77,
-                        "endOffset": 1266
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1097,
-                    "endColumn": 101,
-                    "endOffset": 1194
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1271,
-                        "endColumn": 101,
-                        "endOffset": 1368
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1199,
-                    "endColumn": 98,
-                    "endOffset": 1293
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1373,
-                        "endColumn": 98,
-                        "endOffset": 1467
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1298,
-                    "endColumn": 94,
-                    "endOffset": 1388
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1472,
-                        "endColumn": 94,
-                        "endOffset": 1562
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1393,
-                    "endColumn": 102,
-                    "endOffset": 1491
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1567,
-                        "endColumn": 102,
-                        "endOffset": 1665
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1496,
-                    "endColumn": 94,
-                    "endOffset": 1586
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1670,
-                        "endColumn": 94,
-                        "endOffset": 1760
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1591,
-                    "endColumn": 95,
-                    "endOffset": 1682
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1765,
-                        "endColumn": 95,
-                        "endOffset": 1856
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1687,
-                    "endColumn": 110,
-                    "endOffset": 1793
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1861,
-                        "endColumn": 110,
-                        "endOffset": 1967
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1798,
-                    "endColumn": 96,
-                    "endOffset": 1890
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1972,
-                        "endColumn": 96,
-                        "endOffset": 2064
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1895,
-                    "endColumn": 100,
-                    "endOffset": 1991
-                },
-                "from": {
-                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2069,
-                        "endColumn": 100,
-                        "endOffset": 2165
-                    }
-                }
-            }
-        ]
-    },
-    {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+=======
         "outputFile": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "map": [
             {
                 "to": {
@@ -2321,7 +2027,11 @@
                     "endOffset": 147
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -2340,7 +2050,11 @@
                     "endOffset": 254
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -2359,7 +2073,11 @@
                     "endOffset": 375
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -2378,7 +2096,11 @@
                     "endOffset": 468
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -2397,7 +2119,11 @@
                     "endOffset": 573
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -2416,7 +2142,11 @@
                     "endOffset": 655
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -2435,7 +2165,11 @@
                     "endOffset": 753
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -2454,7 +2188,11 @@
                     "endOffset": 861
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -2473,7 +2211,11 @@
                     "endOffset": 938
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -2492,7 +2234,11 @@
                     "endOffset": 1014
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -2511,7 +2257,11 @@
                     "endOffset": 1092
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -2530,7 +2280,11 @@
                     "endOffset": 1194
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -2549,7 +2303,11 @@
                     "endOffset": 1293
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -2568,7 +2326,11 @@
                     "endOffset": 1388
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -2587,7 +2349,11 @@
                     "endOffset": 1491
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -2606,7 +2372,11 @@
                     "endOffset": 1586
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -2625,7 +2395,11 @@
                     "endOffset": 1682
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -2644,7 +2418,11 @@
                     "endOffset": 1793
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -2663,7 +2441,11 @@
                     "endOffset": 1890
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -2682,7 +2464,11 @@
                     "endOffset": 1991
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -2695,7 +2481,11 @@
         ]
     },
     {
+<<<<<<< HEAD
+        "outputFile": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+=======
         "outputFile": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "map": [
             {
                 "to": {
@@ -2706,7 +2496,11 @@
                     "endOffset": 147
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -2725,7 +2519,11 @@
                     "endOffset": 254
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -2744,7 +2542,11 @@
                     "endOffset": 375
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -2763,7 +2565,11 @@
                     "endOffset": 468
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -2782,7 +2588,11 @@
                     "endOffset": 573
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -2801,7 +2611,11 @@
                     "endOffset": 655
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -2820,7 +2634,11 @@
                     "endOffset": 753
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -2839,7 +2657,11 @@
                     "endOffset": 861
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -2858,7 +2680,11 @@
                     "endOffset": 938
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -2877,7 +2703,11 @@
                     "endOffset": 1014
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -2896,7 +2726,11 @@
                     "endOffset": 1092
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -2915,7 +2749,11 @@
                     "endOffset": 1194
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -2934,7 +2772,11 @@
                     "endOffset": 1293
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -2953,7 +2795,11 @@
                     "endOffset": 1388
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -2972,7 +2818,11 @@
                     "endOffset": 1491
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -2991,7 +2841,11 @@
                     "endOffset": 1586
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -3010,7 +2864,11 @@
                     "endOffset": 1682
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -3029,7 +2887,11 @@
                     "endOffset": 1793
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -3048,7 +2910,11 @@
                     "endOffset": 1890
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -3067,7 +2933,949 @@
                     "endOffset": 1991
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2069,
+                        "endColumn": 100,
+                        "endOffset": 2165
+                    }
+                }
+            }
+        ]
+    },
+    {
+<<<<<<< HEAD
+        "outputFile": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+=======
+        "outputFile": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 96,
+                    "endOffset": 147
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 96,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 106,
+                    "endOffset": 254
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 106,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 120,
+                    "endOffset": 375
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 120,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 92,
+                    "endOffset": 468
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endColumn": 92,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 104,
+                    "endOffset": 573
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 104,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endColumn": 81,
+                    "endOffset": 655
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 752,
+                        "endColumn": 81,
+                        "endOffset": 829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 660,
+                    "endColumn": 97,
+                    "endOffset": 753
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 834,
+                        "endColumn": 97,
+                        "endOffset": 927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 107,
+                    "endOffset": 861
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 932,
+                        "endColumn": 107,
+                        "endOffset": 1035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 76,
+                    "endOffset": 938
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1040,
+                        "endColumn": 76,
+                        "endOffset": 1112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 943,
+                    "endColumn": 75,
+                    "endOffset": 1014
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1117,
+                        "endColumn": 75,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endColumn": 77,
+                    "endOffset": 1092
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1193,
+                        "endColumn": 77,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1097,
+                    "endColumn": 101,
+                    "endOffset": 1194
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1271,
+                        "endColumn": 101,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1199,
+                    "endColumn": 98,
+                    "endOffset": 1293
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 98,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 94,
+                    "endOffset": 1388
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1472,
+                        "endColumn": 94,
+                        "endOffset": 1562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1393,
+                    "endColumn": 102,
+                    "endOffset": 1491
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1567,
+                        "endColumn": 102,
+                        "endOffset": 1665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1496,
+                    "endColumn": 94,
+                    "endOffset": 1586
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1670,
+                        "endColumn": 94,
+                        "endOffset": 1760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1591,
+                    "endColumn": 95,
+                    "endOffset": 1682
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1765,
+                        "endColumn": 95,
+                        "endOffset": 1856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1687,
+                    "endColumn": 110,
+                    "endOffset": 1793
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1861,
+                        "endColumn": 110,
+                        "endOffset": 1967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1798,
+                    "endColumn": 96,
+                    "endOffset": 1890
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1972,
+                        "endColumn": 96,
+                        "endOffset": 2064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1895,
+                    "endColumn": 100,
+                    "endOffset": 1991
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2069,
+                        "endColumn": 100,
+                        "endOffset": 2165
+                    }
+                }
+            }
+        ]
+    },
+    {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+=======
+        "outputFile": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 96,
+                    "endOffset": 147
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 96,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 106,
+                    "endOffset": 254
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 106,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 120,
+                    "endOffset": 375
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 120,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 92,
+                    "endOffset": 468
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endColumn": 92,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 104,
+                    "endOffset": 573
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 104,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 578,
+                    "endColumn": 81,
+                    "endOffset": 655
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 752,
+                        "endColumn": 81,
+                        "endOffset": 829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 660,
+                    "endColumn": 97,
+                    "endOffset": 753
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 834,
+                        "endColumn": 97,
+                        "endOffset": 927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 107,
+                    "endOffset": 861
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 932,
+                        "endColumn": 107,
+                        "endOffset": 1035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 76,
+                    "endOffset": 938
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1040,
+                        "endColumn": 76,
+                        "endOffset": 1112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 943,
+                    "endColumn": 75,
+                    "endOffset": 1014
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1117,
+                        "endColumn": 75,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endColumn": 77,
+                    "endOffset": 1092
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1193,
+                        "endColumn": 77,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1097,
+                    "endColumn": 101,
+                    "endOffset": 1194
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1271,
+                        "endColumn": 101,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1199,
+                    "endColumn": 98,
+                    "endOffset": 1293
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 98,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 94,
+                    "endOffset": 1388
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1472,
+                        "endColumn": 94,
+                        "endOffset": 1562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1393,
+                    "endColumn": 102,
+                    "endOffset": 1491
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1567,
+                        "endColumn": 102,
+                        "endOffset": 1665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1496,
+                    "endColumn": 94,
+                    "endOffset": 1586
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1670,
+                        "endColumn": 94,
+                        "endOffset": 1760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1591,
+                    "endColumn": 95,
+                    "endOffset": 1682
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1765,
+                        "endColumn": 95,
+                        "endOffset": 1856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1687,
+                    "endColumn": 110,
+                    "endOffset": 1793
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1861,
+                        "endColumn": 110,
+                        "endOffset": 1967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1798,
+                    "endColumn": 96,
+                    "endOffset": 1890
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1972,
+                        "endColumn": 96,
+                        "endOffset": 2064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1895,
+                    "endColumn": 100,
+                    "endOffset": 1991
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+=======
+                    "file": "C:\\cg\\term test\\termproj3(1)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ja\\values-ja.xml",
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,

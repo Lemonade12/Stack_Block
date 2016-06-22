@@ -8,6 +8,13 @@
         "source": "C:\\cg\\term test\\termproj3(1)\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\cg\\term test\\termproj\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
@@ -16,14 +23,24 @@
         "source": "C:\\Users\\SeungWook\\Documents\\Android_gles_sample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+=======
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
         "merged": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
@@ -32,11 +49,20 @@
         "source": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+=======
+        "merged": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\zakelstorm\\Desktop\\termproj2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+>>>>>>> a712c25ebb5dd8e21fb81b7b04a48183182cd498
     }
 ]

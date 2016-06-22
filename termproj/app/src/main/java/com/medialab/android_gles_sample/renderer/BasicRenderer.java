@@ -94,16 +94,13 @@ public class BasicRenderer {
 	static float b;
 	float zpos;
 	float xpos;
-<<<<<<< HEAD:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
-=======
 	float scal = 0.98f;//scaling
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
 
-	boolean buttonclick = false;
+
 	boolean button2click;
 	boolean button3click;
 	int save=1;
-	int numofclick = 0;
+	int rotationsection;
 
 	public BasicRenderer() {
 		button2click = false;
@@ -130,7 +127,7 @@ public class BasicRenderer {
 
 		mCamera = new BasicCamera();
 		mShader = new BasicShader();
-
+		rotationsection =0;
 	}
 
 	public BasicCamera GetCamera() {
@@ -216,9 +213,6 @@ public class BasicRenderer {
 
 		PassUniform();
 		for(i=0;i<save;i++) {
-<<<<<<< HEAD:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
-			mShader.SetUniform("relPos", xpos, 4 * i, zpos);
-=======
 			s1 = 1.0f - i*0.1f;
 			if(s1 < 0) s1 = 0.0f;
 			for(j=0; j<i; j++){
@@ -229,7 +223,6 @@ public class BasicRenderer {
 			mShader.SetUniform("scaling1",s1,0.0f,0.0f);
 			mShader.SetUniform("scaling2",0.0f,s2,0.0f);
 			mShader.SetUniform("scaling3",0.0f,0.0f,s1);
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
 			Draw();
 		}
 	}
@@ -360,9 +353,9 @@ public class BasicRenderer {
 		float[] farray = new float[4 * 4];
 		FloatBuffer fb = FloatBuffer.allocate(4 * 4);
 
-		float angle = (float) Math.PI / 2;
+		float angle = (float) Math.PI / 32;
 
-		if (buttonclick) {
+		if (rotationsection!=0) {
 			Vector3f va = GetArcballVector(ancPts);
 			Vector3f vb = GetArcballVector(mTouchPoint);
 			Matrix4f viewmat = new Matrix4f();
@@ -378,7 +371,9 @@ public class BasicRenderer {
 
 			Quaternionf curRotQuat = new Quaternionf(new AxisAngle4f(angle, axisInObjectSpace.x, axisInObjectSpace.y, axisInObjectSpace.z));
 			lastRotQuat = curRotQuat.mul(startRotQuat).normalize();
-			buttonclick = false;
+
+			if((rotationsection ++)%16 == 0)	rotationsection = 0;
+
 		}
 
 		if (mIsTouchOn) {
@@ -403,13 +398,10 @@ public class BasicRenderer {
 					ancPts.x = -9999;
 					ancPts.y = -9999;
 
-<<<<<<< HEAD:termproj3/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
-=======
 					if(save<11){//쌓을때마다 카메라를 위로 올려줌
 						mCamera.mEye.y += 0.5f;
 						mCamera.mAt.y += 0.5f;
 					}
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/src/main/java/com/medialab/android_gles_sample/renderer/BasicRenderer.java
 				}
 			}
 		} else {
@@ -610,7 +602,7 @@ public class BasicRenderer {
 		mIsTouchOn = true;
 	}
 
-	public void ButtonClick() {numofclick = (numofclick + 1)%4; System.out.println("pressed");buttonclick = true;}
+	public void ButtonClick() { if(rotationsection ==0)rotationsection = 1;}
 
 	public void Button2Click() {
 		System.out.println(direction);

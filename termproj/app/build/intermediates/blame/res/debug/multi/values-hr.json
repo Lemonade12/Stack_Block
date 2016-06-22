@@ -2310,391 +2310,6 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-hr\\values-hr.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 104,
-                    "endOffset": 155
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 104,
-                        "endOffset": 329
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 160,
-                    "endColumn": 107,
-                    "endOffset": 263
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 334,
-                        "endColumn": 107,
-                        "endOffset": 437
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 268,
-                    "endColumn": 122,
-                    "endOffset": 386
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 442,
-                        "endColumn": 122,
-                        "endOffset": 560
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 391,
-                    "endColumn": 96,
-                    "endOffset": 483
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 565,
-                        "endColumn": 96,
-                        "endOffset": 657
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 488,
-                    "endColumn": 109,
-                    "endOffset": 593
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 662,
-                        "endColumn": 109,
-                        "endOffset": 767
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 598,
-                    "endColumn": 85,
-                    "endOffset": 679
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 772,
-                        "endColumn": 85,
-                        "endOffset": 853
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 684,
-                    "endColumn": 103,
-                    "endOffset": 783
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 858,
-                        "endColumn": 103,
-                        "endOffset": 957
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 788,
-                    "endColumn": 118,
-                    "endOffset": 902
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 962,
-                        "endColumn": 118,
-                        "endOffset": 1076
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 907,
-                    "endColumn": 83,
-                    "endOffset": 986
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1081,
-                        "endColumn": 83,
-                        "endOffset": 1160
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 991,
-                    "endColumn": 82,
-                    "endOffset": 1069
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1165,
-                        "endColumn": 82,
-                        "endOffset": 1243
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1074,
-                    "endColumn": 85,
-                    "endOffset": 1155
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1248,
-                        "endColumn": 85,
-                        "endOffset": 1329
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1160,
-                    "endColumn": 103,
-                    "endOffset": 1259
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1334,
-                        "endColumn": 103,
-                        "endOffset": 1433
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1264,
-                    "endColumn": 112,
-                    "endOffset": 1372
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1438,
-                        "endColumn": 112,
-                        "endOffset": 1546
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1377,
-                    "endColumn": 105,
-                    "endOffset": 1478
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1551,
-                        "endColumn": 105,
-                        "endOffset": 1652
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1483,
-                    "endColumn": 104,
-                    "endOffset": 1583
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1657,
-                        "endColumn": 104,
-                        "endOffset": 1757
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1588,
-                    "endColumn": 112,
-                    "endOffset": 1696
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1762,
-                        "endColumn": 112,
-                        "endOffset": 1870
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1701,
-                    "endColumn": 106,
-                    "endOffset": 1803
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1875,
-                        "endColumn": 106,
-                        "endOffset": 1977
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1808,
-                    "endColumn": 122,
-                    "endOffset": 1926
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1982,
-                        "endColumn": 122,
-                        "endOffset": 2100
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1931,
-                    "endColumn": 96,
-                    "endOffset": 2023
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2105,
-                        "endColumn": 96,
-                        "endOffset": 2197
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2028,
-                    "endColumn": 100,
-                    "endOffset": 2124
-                },
-                "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2202,
-                        "endColumn": 100,
-                        "endOffset": 2298
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\cg\\term test\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-hr\\values-hr.xml",
         "map": [
             {
@@ -3080,11 +2695,7 @@
         ]
     },
     {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
         "outputFile": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-hr\\values-hr.xml",
-=======
-        "outputFile": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
         "map": [
             {
                 "to": {
@@ -3095,11 +2706,7 @@
                     "endOffset": 155
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -3118,11 +2725,7 @@
                     "endOffset": 263
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -3141,11 +2744,7 @@
                     "endOffset": 386
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -3164,11 +2763,7 @@
                     "endOffset": 483
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -3187,11 +2782,7 @@
                     "endOffset": 593
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -3210,11 +2801,7 @@
                     "endOffset": 679
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -3233,11 +2820,7 @@
                     "endOffset": 783
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -3256,11 +2839,7 @@
                     "endOffset": 902
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -3279,11 +2858,7 @@
                     "endOffset": 986
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -3302,11 +2877,7 @@
                     "endOffset": 1069
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -3325,11 +2896,7 @@
                     "endOffset": 1155
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -3348,11 +2915,7 @@
                     "endOffset": 1259
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -3371,11 +2934,7 @@
                     "endOffset": 1372
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -3394,11 +2953,7 @@
                     "endOffset": 1478
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -3417,11 +2972,7 @@
                     "endOffset": 1583
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -3440,11 +2991,7 @@
                     "endOffset": 1696
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -3463,11 +3010,7 @@
                     "endOffset": 1803
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -3486,11 +3029,7 @@
                     "endOffset": 1926
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -3509,11 +3048,7 @@
                     "endOffset": 2023
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -3532,11 +3067,7 @@
                     "endOffset": 2124
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch6\\Stack_Block-branch6\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -3549,7 +3080,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-hr\\values-hr.xml",
+        "outputFile": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\values-hr\\values-hr.xml",
         "map": [
             {
                 "to": {
@@ -3560,7 +3091,7 @@
                     "endOffset": 155
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -3579,7 +3110,7 @@
                     "endOffset": 263
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -3598,7 +3129,7 @@
                     "endOffset": 386
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -3617,7 +3148,7 @@
                     "endOffset": 483
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -3636,7 +3167,7 @@
                     "endOffset": 593
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -3655,7 +3186,7 @@
                     "endOffset": 679
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -3674,7 +3205,7 @@
                     "endOffset": 783
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -3693,7 +3224,7 @@
                     "endOffset": 902
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -3712,7 +3243,7 @@
                     "endOffset": 986
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -3731,7 +3262,7 @@
                     "endOffset": 1069
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -3750,7 +3281,7 @@
                     "endOffset": 1155
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -3769,7 +3300,7 @@
                     "endOffset": 1259
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -3788,7 +3319,7 @@
                     "endOffset": 1372
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -3807,7 +3338,7 @@
                     "endOffset": 1478
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -3826,7 +3357,7 @@
                     "endOffset": 1583
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -3845,7 +3376,7 @@
                     "endOffset": 1696
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -3864,7 +3395,7 @@
                     "endOffset": 1803
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -3883,7 +3414,7 @@
                     "endOffset": 1926
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -3902,7 +3433,7 @@
                     "endOffset": 2023
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -3921,7 +3452,7 @@
                     "endOffset": 2124
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -4319,11 +3850,7 @@
         ]
     },
     {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
         "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-hr\\values-hr.xml",
-=======
-        "outputFile": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
         "map": [
             {
                 "to": {
@@ -4334,11 +3861,7 @@
                     "endOffset": 155
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -4357,11 +3880,7 @@
                     "endOffset": 263
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -4380,11 +3899,7 @@
                     "endOffset": 386
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -4403,11 +3918,7 @@
                     "endOffset": 483
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -4426,11 +3937,7 @@
                     "endOffset": 593
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -4449,11 +3956,7 @@
                     "endOffset": 679
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -4472,11 +3975,7 @@
                     "endOffset": 783
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -4495,11 +3994,7 @@
                     "endOffset": 902
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -4518,11 +4013,7 @@
                     "endOffset": 986
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -4541,11 +4032,7 @@
                     "endOffset": 1069
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -4564,11 +4051,7 @@
                     "endOffset": 1155
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -4587,11 +4070,7 @@
                     "endOffset": 1259
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -4610,11 +4089,7 @@
                     "endOffset": 1372
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -4633,11 +4108,7 @@
                     "endOffset": 1478
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -4656,11 +4127,7 @@
                     "endOffset": 1583
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -4679,11 +4146,7 @@
                     "endOffset": 1696
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -4702,11 +4165,7 @@
                     "endOffset": 1803
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -4725,11 +4184,7 @@
                     "endOffset": 1926
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -4748,11 +4203,7 @@
                     "endOffset": 2023
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
-                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -4771,11 +4222,392 @@
                     "endOffset": 2124
                 },
                 "from": {
-<<<<<<< HEAD:termproj3/app/build/intermediates/blame/res/debug/multi/values-hr.json
                     "file": "C:\\Users\\zakelstorm\\Desktop\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
-=======
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2202,
+                        "endColumn": 100,
+                        "endOffset": 2298
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-hr\\values-hr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 104,
+                    "endOffset": 155
+                },
+                "from": {
                     "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
->>>>>>> 7dcac8566e6bb639ceaae669e12ad6aaf88d5192:termproj/app/build/intermediates/blame/res/debug/multi/values-hr.json
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 104,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 107,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 107,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 122,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 122,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 96,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 565,
+                        "endColumn": 96,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 488,
+                    "endColumn": 109,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 109,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 85,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 85,
+                        "endOffset": 853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 103,
+                    "endOffset": 783
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 858,
+                        "endColumn": 103,
+                        "endOffset": 957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 788,
+                    "endColumn": 118,
+                    "endOffset": 902
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 962,
+                        "endColumn": 118,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 907,
+                    "endColumn": 83,
+                    "endOffset": 986
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 83,
+                        "endOffset": 1160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 991,
+                    "endColumn": 82,
+                    "endOffset": 1069
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1165,
+                        "endColumn": 82,
+                        "endOffset": 1243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1074,
+                    "endColumn": 85,
+                    "endOffset": 1155
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1248,
+                        "endColumn": 85,
+                        "endOffset": 1329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1160,
+                    "endColumn": 103,
+                    "endOffset": 1259
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1334,
+                        "endColumn": 103,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1264,
+                    "endColumn": 112,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endColumn": 112,
+                        "endOffset": 1546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endColumn": 105,
+                    "endOffset": 1478
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1551,
+                        "endColumn": 105,
+                        "endOffset": 1652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1483,
+                    "endColumn": 104,
+                    "endOffset": 1583
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1657,
+                        "endColumn": 104,
+                        "endOffset": 1757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1588,
+                    "endColumn": 112,
+                    "endOffset": 1696
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1762,
+                        "endColumn": 112,
+                        "endOffset": 1870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1701,
+                    "endColumn": 106,
+                    "endOffset": 1803
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1875,
+                        "endColumn": 106,
+                        "endOffset": 1977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1808,
+                    "endColumn": 122,
+                    "endOffset": 1926
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1982,
+                        "endColumn": 122,
+                        "endOffset": 2100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1931,
+                    "endColumn": 96,
+                    "endOffset": 2023
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2105,
+                        "endColumn": 96,
+                        "endOffset": 2197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2028,
+                    "endColumn": 100,
+                    "endOffset": 2124
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Stack_Block-branch7 (1)\\Stack_Block-branch7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -5161,6 +4993,391 @@
                 },
                 "from": {
                     "file": "C:\\Users\\SeungWook\\Documents\\homework2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2202,
+                        "endColumn": 100,
+                        "endOffset": 2298
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-hr\\values-hr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 104,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 104,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 107,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 107,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 122,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 122,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 96,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 565,
+                        "endColumn": 96,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 488,
+                    "endColumn": 109,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 109,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 85,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 85,
+                        "endOffset": 853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 103,
+                    "endOffset": 783
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 858,
+                        "endColumn": 103,
+                        "endOffset": 957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 788,
+                    "endColumn": 118,
+                    "endOffset": 902
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 962,
+                        "endColumn": 118,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 907,
+                    "endColumn": 83,
+                    "endOffset": 986
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 83,
+                        "endOffset": 1160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 991,
+                    "endColumn": 82,
+                    "endOffset": 1069
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1165,
+                        "endColumn": 82,
+                        "endOffset": 1243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1074,
+                    "endColumn": 85,
+                    "endOffset": 1155
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1248,
+                        "endColumn": 85,
+                        "endOffset": 1329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1160,
+                    "endColumn": 103,
+                    "endOffset": 1259
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1334,
+                        "endColumn": 103,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1264,
+                    "endColumn": 112,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endColumn": 112,
+                        "endOffset": 1546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endColumn": 105,
+                    "endOffset": 1478
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1551,
+                        "endColumn": 105,
+                        "endOffset": 1652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1483,
+                    "endColumn": 104,
+                    "endOffset": 1583
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1657,
+                        "endColumn": 104,
+                        "endOffset": 1757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1588,
+                    "endColumn": 112,
+                    "endOffset": 1696
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1762,
+                        "endColumn": 112,
+                        "endOffset": 1870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1701,
+                    "endColumn": 106,
+                    "endOffset": 1803
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1875,
+                        "endColumn": 106,
+                        "endOffset": 1977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1808,
+                    "endColumn": 122,
+                    "endOffset": 1926
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1982,
+                        "endColumn": 122,
+                        "endOffset": 2100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1931,
+                    "endColumn": 96,
+                    "endOffset": 2023
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2105,
+                        "endColumn": 96,
+                        "endOffset": 2197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2028,
+                    "endColumn": 100,
+                    "endOffset": 2124
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master8\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hr\\values-hr.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,

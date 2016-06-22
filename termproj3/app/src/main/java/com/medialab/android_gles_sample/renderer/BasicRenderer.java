@@ -111,7 +111,7 @@ public class BasicRenderer {
 		mIsFill = true;
 		mIsTouchOn = false;
 		mTouchPoint = new Vector2f(0);
-		direction = 0;
+		direction = -1;
 		savedirectionz = -1;
 		savedirectionx = -1;
 		startRotQuat = new Quaternionf();
@@ -585,14 +585,17 @@ public class BasicRenderer {
 	public void ButtonClick() {numofclick = (numofclick + 1)%4; System.out.println("pressed");buttonclick = true;}
 
 	public void Button2Click() {
+		System.out.println(direction);
 		if(button2click==false){
-			if(direction ==3 || direction ==4){
+			System.out.println("2f");
+			if(button3click){
 				Button3Click();
 			}
 			if(savedirectionz == -1) direction = 0;
 			else direction = savedirectionz;
 			button2click = true;
 		}else{
+			System.out.println("2t");
 			savedirectionz = direction;
 			zpos = a+zpos;
 			a=0;
@@ -600,14 +603,17 @@ public class BasicRenderer {
 		}
 	}
 	public void Button3Click() {
+		System.out.println(direction);
 		if(button3click==false){
-			if(direction ==0 || direction == 1){
+			System.out.println("3f");
+			if(button2click){
 				Button2Click();
 			}
 			if(savedirectionx == -1) direction = 3;
 			else direction = savedirectionx;
 			button3click = true;
 		}else{
+			System.out.println("3t");
 			savedirectionx = direction;
 			xpos = b+xpos;
 			b=0;

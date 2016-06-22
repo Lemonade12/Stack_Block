@@ -29,13 +29,23 @@ public abstract class SampleView extends Activity {
 
         addUi();
         Button btn = (Button)findViewById(R.id.button);
+        Button btn2 = (Button)findViewById(R.id.button2);
+        Button btn3 = (Button)findViewById(R.id.button3);
         btn.setOnClickListener(new Button.OnClickListener() {
             public void onClick(View v) {
                 mRenderer.ButtonClick();
             }
         });
-
-
+        btn2.setOnClickListener(new Button.OnClickListener() {
+            public void onClick(View v) {
+                mRenderer.Button2Click();
+            }
+        });
+        btn3.setOnClickListener(new Button.OnClickListener() {
+            public void onClick(View v) {
+                mRenderer.Button3Click();
+            }
+        });
     }
 
     @Override

@@ -86,16 +86,24 @@ public class BasicRenderer {
 	// Texture object id
 	int[] mTexId = {0};
 
-	int direction = 0;
+	int direction;
+	int savedirectionz;
+	int savedirectionx;
 	float vel = 0.15f;
-	float a = 0.0f; // translation위해 임시 변수
+	static float a; // translation위해 임시 변수
+	static float b;
 	float zpos;
+	float xpos;
 
 	boolean buttonclick = false;
+	boolean button2click;
+	boolean button3click;
 	int save=1;
 	int numofclick = 0;
 
 	public BasicRenderer() {
+		button2click = false;
+		button3click = false;
 		mWidth = 0;
 		mHeight = 0;
 		mDeltaTime = 0;
@@ -103,12 +111,15 @@ public class BasicRenderer {
 		mIsFill = true;
 		mIsTouchOn = false;
 		mTouchPoint = new Vector2f(0);
-
+		direction = 0;
+		savedirectionz = -1;
+		savedirectionx = -1;
 		startRotQuat = new Quaternionf();
 		lastRotQuat = startRotQuat;
 		ancPts = new Vector2f(mTouchPoint);
 		isUpdateAnc = false;
-
+		a = 0.0f;
+		b=0.0f;
 		mHasTexture = false;
 
 		mIndexSize = 0;
@@ -197,7 +208,7 @@ public class BasicRenderer {
 
 		PassUniform();
 		for(i=0;i<save;i++) {
-			mShader.SetUniform("relPos", 0, 4 * i, zpos);
+			mShader.SetUniform("relPos", xpos, 4 * i, zpos);
 			Draw();
 		}
 	}
@@ -350,20 +361,27 @@ public class BasicRenderer {
 		}
 
 		if (mIsTouchOn) {
-			System.out.println("dsaf");
-
 			if (!isUpdateAnc) {
 				ancPts.set(mTouchPoint);
 				isUpdateAnc = true;
 				Log.i(TAG, "Anchor Updated\n");
 			} else {
 				if ((mTouchPoint.x >= ancPts.x - 10 && mTouchPoint.x <= ancPts.x + 10) && (mTouchPoint.y >= ancPts.y - 10 && mTouchPoint.y <= ancPts.y + 10)) {
-					direction = -1;
-					zpos = a;
+					System.out.println("befzpos:" +zpos);
+					if(a!=0) {
+						zpos = a + zpos;
+						a = 0;
+					}
+					if(b!=0){
+						xpos = b + xpos;
+						b=0;
+					}
+					System.out.println("stop:" +a);
+					System.out.println("zpos:" +zpos);
 					save++;
 					ancPts.x = -9999;
 					ancPts.y = -9999;
-					BasicCamera.mIsTouchOn = true;//여기
+
 				}
 			}
 		} else {
@@ -375,17 +393,29 @@ public class BasicRenderer {
 		Matrix4f rotationMat = new Matrix4f();
 
 		lastRotQuat.get(rotationMat);
-		if (direction == 0){
-			a += vel;
-			rotationMat.mytranslation(0, 0, a);
-			if(a>=10) direction = 1;
-		}else if(direction == 1){
-			a -= vel;
-			rotationMat.mytranslation(0, 0, a);
-			if(a<=-10) direction = 0;
+		if(button2click) {
+			if (direction == 0) {
+				a += vel;
+				rotationMat.mytranslation(0, 0, a);
+				if ((a+zpos) >= 10) direction = 1;
+			} else if (direction == 1) {
+				a -= vel;
+				rotationMat.mytranslation(0, 0, a);
+				if ((a+zpos) <= -10) direction = 0;
+			}
+		}
+		if(button3click){
+			if(direction == 3){
+				b+=vel;
+				rotationMat.mytranslation(b,0,0);
+				if((b+xpos)>=10) direction = 4;
+			}else if(direction == 4){
+				b-=vel;
+				rotationMat.mytranslation(b,0,0);
+				if((b+xpos)<=-10) direction = 3;
+			}
 		}
 		rotationMat.get(farray);
-
 		return farray;
 	}
 
@@ -554,6 +584,36 @@ public class BasicRenderer {
 
 	public void ButtonClick() {numofclick = (numofclick + 1)%4; System.out.println("pressed");buttonclick = true;}
 
+	public void Button2Click() {
+		if(button2click==false){
+			if(direction ==3 || direction ==4){
+				Button3Click();
+			}
+			if(savedirectionz == -1) direction = 0;
+			else direction = savedirectionz;
+			button2click = true;
+		}else{
+			savedirectionz = direction;
+			zpos = a+zpos;
+			a=0;
+			button2click = false;
+		}
+	}
+	public void Button3Click() {
+		if(button3click==false){
+			if(direction ==0 || direction == 1){
+				Button2Click();
+			}
+			if(savedirectionx == -1) direction = 3;
+			else direction = savedirectionx;
+			button3click = true;
+		}else{
+			savedirectionx = direction;
+			xpos = b+xpos;
+			b=0;
+			button3click = false;
+		}
+	}
 	public void TouchOff() {
 		mIsTouchOn = false;
 		BasicCamera.mIsTouchOn = false;//여기

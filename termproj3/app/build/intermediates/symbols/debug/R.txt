@@ -464,6 +464,8 @@ int id alertTitle 0x7f0c0030
 int id always 0x7f0c001b
 int id beginning 0x7f0c0018
 int id button 0x7f0c005e
+int id button2 0x7f0c005f
+int id button3 0x7f0c0060
 int id buttonPanel 0x7f0c002b
 int id cancel_action 0x7f0c0051
 int id checkbox 0x7f0c0039

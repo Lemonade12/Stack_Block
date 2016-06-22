@@ -770,6 +770,391 @@
         ]
     },
     {
+        "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-ca\\values-ca.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 117,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 117,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 107,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 107,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 122,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 122,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 105,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 578,
+                        "endColumn": 105,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 106,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 106,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 82,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 82,
+                        "endOffset": 869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 107,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 874,
+                        "endColumn": 107,
+                        "endOffset": 977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 125,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 982,
+                        "endColumn": 125,
+                        "endOffset": 1103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endColumn": 83,
+                    "endOffset": 1013
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1108,
+                        "endColumn": 83,
+                        "endOffset": 1187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1018,
+                    "endColumn": 80,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1192,
+                        "endColumn": 80,
+                        "endOffset": 1268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 82,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1273,
+                        "endColumn": 82,
+                        "endOffset": 1351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 110,
+                    "endOffset": 1288
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1356,
+                        "endColumn": 110,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1293,
+                    "endColumn": 108,
+                    "endOffset": 1397
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1467,
+                        "endColumn": 108,
+                        "endOffset": 1571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1402,
+                    "endColumn": 97,
+                    "endOffset": 1495
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1576,
+                        "endColumn": 97,
+                        "endOffset": 1669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1500,
+                    "endColumn": 109,
+                    "endOffset": 1605
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1674,
+                        "endColumn": 109,
+                        "endOffset": 1779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1610,
+                    "endColumn": 103,
+                    "endOffset": 1709
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1784,
+                        "endColumn": 103,
+                        "endOffset": 1883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1714,
+                    "endColumn": 107,
+                    "endOffset": 1817
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1888,
+                        "endColumn": 107,
+                        "endOffset": 1991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1822,
+                    "endColumn": 122,
+                    "endOffset": 1940
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1996,
+                        "endColumn": 122,
+                        "endOffset": 2114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1945,
+                    "endColumn": 98,
+                    "endOffset": 2039
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2119,
+                        "endColumn": 98,
+                        "endOffset": 2213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2044,
+                    "endColumn": 100,
+                    "endOffset": 2140
+                },
+                "from": {
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2218,
+                        "endColumn": 100,
+                        "endOffset": 2314
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\zakelstorm\\Desktop\\HW2\\app\\build\\intermediates\\res\\merged\\debug\\values-ca\\values-ca.xml",
         "map": [
             {
@@ -1155,7 +1540,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-ca\\values-ca.xml",
+        "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-ca\\values-ca.xml",
         "map": [
             {
                 "to": {
@@ -1166,7 +1551,7 @@
                     "endOffset": 168
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1185,7 +1570,7 @@
                     "endOffset": 276
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1204,7 +1589,7 @@
                     "endOffset": 399
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1223,7 +1608,7 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1242,7 +1627,7 @@
                     "endOffset": 612
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1261,7 +1646,7 @@
                     "endOffset": 695
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1280,7 +1665,7 @@
                     "endOffset": 803
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1299,7 +1684,7 @@
                     "endOffset": 929
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1318,7 +1703,7 @@
                     "endOffset": 1013
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1337,7 +1722,7 @@
                     "endOffset": 1094
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1356,7 +1741,7 @@
                     "endOffset": 1177
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1375,7 +1760,7 @@
                     "endOffset": 1288
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1394,7 +1779,7 @@
                     "endOffset": 1397
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1413,7 +1798,7 @@
                     "endOffset": 1495
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1432,7 +1817,7 @@
                     "endOffset": 1605
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1451,7 +1836,7 @@
                     "endOffset": 1709
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1470,7 +1855,7 @@
                     "endOffset": 1817
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1489,7 +1874,7 @@
                     "endOffset": 1940
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1508,7 +1893,7 @@
                     "endOffset": 2039
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1527,7 +1912,7 @@
                     "endOffset": 2140
                 },
                 "from": {
-                    "file": "C:\\Users\\zakelstorm\\Desktop\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1925,7 +2310,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\res\\merged\\debug\\values-ca\\values-ca.xml",
+        "outputFile": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\res\\merged\\debug\\values-ca\\values-ca.xml",
         "map": [
             {
                 "to": {
@@ -1936,7 +2321,7 @@
                     "endOffset": 168
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1955,7 +2340,7 @@
                     "endOffset": 276
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1974,7 +2359,7 @@
                     "endOffset": 399
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1993,7 +2378,7 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -2012,7 +2397,7 @@
                     "endOffset": 612
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -2031,7 +2416,7 @@
                     "endOffset": 695
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -2050,7 +2435,7 @@
                     "endOffset": 803
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -2069,7 +2454,7 @@
                     "endOffset": 929
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -2088,7 +2473,7 @@
                     "endOffset": 1013
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -2107,7 +2492,7 @@
                     "endOffset": 1094
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -2126,7 +2511,7 @@
                     "endOffset": 1177
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -2145,7 +2530,7 @@
                     "endOffset": 1288
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -2164,7 +2549,7 @@
                     "endOffset": 1397
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -2183,7 +2568,7 @@
                     "endOffset": 1495
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -2202,7 +2587,7 @@
                     "endOffset": 1605
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -2221,7 +2606,7 @@
                     "endOffset": 1709
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -2240,7 +2625,7 @@
                     "endOffset": 1817
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -2259,7 +2644,7 @@
                     "endOffset": 1940
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -2278,7 +2663,7 @@
                     "endOffset": 2039
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -2297,7 +2682,7 @@
                     "endOffset": 2140
                 },
                 "from": {
-                    "file": "C:\\Users\\user\\Desktop\\Computer Graphics\\term\\Stack_Block\\Stack_Block\\termproj\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
+                    "file": "C:\\Users\\zakelstorm\\Desktop\\Stack_Block-master7\\termproj3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ca\\values-ca.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,

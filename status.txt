@@ -24,3 +24,4 @@
 2. block쌓을때마다 scaling해줘서 작아지게 해줌
 3. block을 쌓을때마다 시점을 조금씩 올려준다.
 4. texturing image 바꿔줌
+5. rotation 시 움직임을 볼 수 있도록 수정

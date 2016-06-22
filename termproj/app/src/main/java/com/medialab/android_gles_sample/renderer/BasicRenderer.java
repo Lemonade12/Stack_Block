@@ -99,12 +99,16 @@ public class BasicRenderer {
 
 	boolean button2click;
 	boolean button3click;
+	public static boolean button4click;
+	public static boolean button5click;
 	int save=1;
 	int rotationsection;
 
 	public BasicRenderer() {
 		button2click = false;
 		button3click = false;
+		button4click = false;
+		button5click = false;
 		mWidth = 0;
 		mHeight = 0;
 		mDeltaTime = 0;
@@ -639,6 +643,22 @@ public class BasicRenderer {
 			b=0;
 			button3click = false;
 		}
+	}
+
+
+	public void Button4clickset(){
+		System.out.println(button4click);
+		button4click = true;
+	}
+	public void Button4clickoff(){
+		System.out.println("skxk" +button4click);
+		button4click = false;
+	}
+	public void Button5clickset(){
+		button5click = true;
+	}
+	public void Button5clickoff(){
+		button5click = false;
 	}
 	public void TouchOff() {
 		mIsTouchOn = false;

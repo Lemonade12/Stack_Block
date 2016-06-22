@@ -1593,10 +1593,14 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020044;
         public static final int andro=0x7f020045;
         public static final int back1=0x7f020046;
-        public static final int notification_template_icon_bg=0x7f02004a;
+        public static final int notification_template_icon_bg=0x7f02004e;
         public static final int pyramid=0x7f020047;
         public static final int tex_c_brick=0x7f020048;
         public static final int wood=0x7f020049;
+        public static final int zoomin=0x7f02004a;
+        public static final int zoomin2=0x7f02004b;
+        public static final int zoomout=0x7f02004c;
+        public static final int zoomout2=0x7f02004d;
     }
     public static final class id {
         public static final int action0=0x7f0c0050;
@@ -1621,6 +1625,8 @@ containing a value of this type.
         public static final int button=0x7f0c005e;
         public static final int button2=0x7f0c005f;
         public static final int button3=0x7f0c0060;
+        public static final int button4=0x7f0c0061;
+        public static final int button5=0x7f0c0062;
         public static final int buttonPanel=0x7f0c002b;
         public static final int cancel_action=0x7f0c0051;
         public static final int checkbox=0x7f0c0039;

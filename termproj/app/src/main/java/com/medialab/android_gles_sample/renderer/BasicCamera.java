@@ -1,6 +1,7 @@
 package com.medialab.android_gles_sample.renderer;
 
 import android.opengl.Matrix;
+import com.medialab.android_gles_sample.renderer.BasicRenderer;
 import android.text.method.Touch;
 
 public class BasicCamera {
@@ -9,7 +10,8 @@ public class BasicCamera {
 	public static float ROTATION_VEL = 45.0f;
 	public static float ZOOM_MIN_LENGTH = 5.0f;
 
-	static boolean mIsTouchOn;//여기
+	boolean button5click;
+	public static boolean mIsTouchOn;//여기
 
 	Vec3 mEye;
 	float mDist;
@@ -26,7 +28,7 @@ public class BasicCamera {
 	float[] mPerspectiveMat;
 
 	int direction = 1;
-	BasicCamera()
+	public BasicCamera()
 	{
 		mIsTouchOn = false;//여기
 
@@ -41,6 +43,7 @@ public class BasicCamera {
 		mPerspectiveMat = new float[16];
 		mLookatMat = new float[16];
 
+		button5click = false;
 		mAt = new Vec3(0);
 		mDist = Vec3.length(Vec3.sub(mEye, mAt));
 		UpdateAngle();
@@ -87,6 +90,9 @@ public class BasicCamera {
 			mEye.y += 2.0f;
 			mAt.y +=2.0f;
 		}//여기
+		if(BasicRenderer.button4click) 	MoveForward(0.2f);
+		if(BasicRenderer.button5click)	MoveBackward(0.2f);
+
 		Matrix.setLookAtM(mLookatMat, 0,
 				mEye.x, mEye.y, mEye.z,
 				mAt.x, mAt.y, mAt.z,
@@ -151,31 +157,8 @@ public class BasicCamera {
 	}
 
 
-/*
-	void BasicCamera::ZoomIn(const float& vel)
-	{
-		vec3 dir = mAt - mEye;
-		float remain = glm::length(dir);
-		remain -= ZOOM_MIN_LENGTH;
-		dir = normalize(dir);
 
-		remain = (remain > vel) ? vel : remain;
-		dir *= remain;
-		mEye += dir;
-		mDist -= remain;
-	}
-*/
 
-/*
-	void BasicCamera::ZoomOut(const float& vel)
-	{
-		vec3 dir = mEye - mAt;
-		dir = normalize(dir);
-		dir *= vel;
-		mEye += dir;
-		mDist += vel;
-	}
-*/
 
 
 	public void SetEye(float x, float y, float z)
@@ -206,10 +189,9 @@ public class BasicCamera {
 		return mAt;
 	}
 
-	void MoveForward(float vel)
+	public void MoveForward(float vel)
 	{
-		Vec3 abc = new Vec3(0,0,25);
-		Vec3 dir = Vec3.sub(mAt, abc);
+		Vec3 dir = Vec3.sub(mAt, mEye);
 		dir.normalize().mul(vel);
 		mEye.add(dir);
 		UpdateAt();
@@ -217,8 +199,7 @@ public class BasicCamera {
 
 	void MoveBackward(float vel)
 	{
-		Vec3 abc = new Vec3(0,0,25);
-		Vec3 dir = Vec3.sub(abc, mAt);
+		Vec3 dir = Vec3.sub(mEye, mAt);
 		dir.normalize().mul(vel);
 		mEye.add(dir);
 		UpdateAt();
@@ -249,6 +230,7 @@ public class BasicCamera {
 		Vec3 dir = Vec3.mul(mUp, vel);
 		mEye.add(dir);
 		UpdateAt();
+
 	}
 
 	void MoveDown(float vel)
@@ -257,5 +239,4 @@ public class BasicCamera {
 		mEye.add(dir);
 		UpdateAt();
 	}
-
 }

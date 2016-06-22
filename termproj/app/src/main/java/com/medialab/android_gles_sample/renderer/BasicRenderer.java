@@ -96,15 +96,19 @@ public class BasicRenderer {
 	float xpos;
 	float scal = 0.98f;//scaling
 
-	boolean buttonclick = false;
+
 	boolean button2click;
 	boolean button3click;
+	public static boolean button4click;
+	public static boolean button5click;
 	int save=1;
-	int numofclick = 0;
+	int rotationsection;
 
 	public BasicRenderer() {
 		button2click = false;
 		button3click = false;
+		button4click = false;
+		button5click = false;
 		mWidth = 0;
 		mHeight = 0;
 		mDeltaTime = 0;
@@ -127,7 +131,7 @@ public class BasicRenderer {
 
 		mCamera = new BasicCamera();
 		mShader = new BasicShader();
-
+		rotationsection =0;
 	}
 
 	public BasicCamera GetCamera() {
@@ -353,9 +357,9 @@ public class BasicRenderer {
 		float[] farray = new float[4 * 4];
 		FloatBuffer fb = FloatBuffer.allocate(4 * 4);
 
-		float angle = (float) Math.PI / 2;
+		float angle = (float) Math.PI / 32;
 
-		if (buttonclick) {
+		if (rotationsection!=0) {
 			Vector3f va = GetArcballVector(ancPts);
 			Vector3f vb = GetArcballVector(mTouchPoint);
 			Matrix4f viewmat = new Matrix4f();
@@ -371,7 +375,9 @@ public class BasicRenderer {
 
 			Quaternionf curRotQuat = new Quaternionf(new AxisAngle4f(angle, axisInObjectSpace.x, axisInObjectSpace.y, axisInObjectSpace.z));
 			lastRotQuat = curRotQuat.mul(startRotQuat).normalize();
-			buttonclick = false;
+
+			if((rotationsection ++)%16 == 0)	rotationsection = 0;
+
 		}
 
 		if (mIsTouchOn) {
@@ -462,15 +468,13 @@ public class BasicRenderer {
 		mShader.SetUniform("invTransWorldMat", GetInverseTranspose(worldMat));
 		mShader.SetUniform("s_tex0", 0);
 		mShader.SetUniform("eyePos", mCamera.GetEye());
-		mShader.SetUniform("lightPos", 50.0f, 50.0f, 50.0f);
+		mShader.SetUniform("lightPos", 15.0f, 50.0f, 50.0f);
 		mShader.SetUniform("materialDiff", 1.0f, 1.0f, 1.0f);
-		//mShader.SetUniform("materialDiff", 0.8f, 1.0f, 0.7f);
 		mShader.SetUniform("materialSpec", 0.8f, 1.0f, 0.7f);
 		mShader.SetUniform("materialAmbi", 0.0f, 0.0f, 0.0f);
 		mShader.SetUniform("materialEmit", 0.0f, 0.0f, 0.0f);
 		mShader.SetUniform("materialSh", 100.0f);
 		mShader.SetUniform("sourceDiff", 1.0f, 1.0f, 1.0f);
-		//mShader.SetUniform("sourceDiff", 0.7f, 0.7f, 0.7f);
 		mShader.SetUniform("sourceSpec", 1.0f, 1.0f, 1.0f);
 		mShader.SetUniform("sourceAmbi", 0.0f, 0.0f, 0.0f);
 	}
@@ -600,7 +604,7 @@ public class BasicRenderer {
 		mIsTouchOn = true;
 	}
 
-	public void ButtonClick() {numofclick = (numofclick + 1)%4; System.out.println("pressed");buttonclick = true;}
+	public void ButtonClick() { if(rotationsection ==0)rotationsection = 1;}
 
 	public void Button2Click() {
 		System.out.println(direction);
@@ -637,6 +641,22 @@ public class BasicRenderer {
 			b=0;
 			button3click = false;
 		}
+	}
+
+
+	public void Button4clickset(){
+		System.out.println(button4click);
+		button4click = true;
+	}
+	public void Button4clickoff(){
+		System.out.println("skxk" +button4click);
+		button4click = false;
+	}
+	public void Button5clickset(){
+		button5click = true;
+	}
+	public void Button5clickoff(){
+		button5click = false;
 	}
 	public void TouchOff() {
 		mIsTouchOn = false;

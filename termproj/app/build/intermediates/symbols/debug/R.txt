@@ -441,10 +441,14 @@ int drawable abc_textfield_search_default_mtrl_alpha 0x7f020043
 int drawable abc_textfield_search_material 0x7f020044
 int drawable andro 0x7f020045
 int drawable back1 0x7f020046
-int drawable notification_template_icon_bg 0x7f02004a
+int drawable notification_template_icon_bg 0x7f02004e
 int drawable pyramid 0x7f020047
 int drawable tex_c_brick 0x7f020048
 int drawable wood 0x7f020049
+int drawable zoomin 0x7f02004a
+int drawable zoomin2 0x7f02004b
+int drawable zoomout 0x7f02004c
+int drawable zoomout2 0x7f02004d
 int id action0 0x7f0c0050
 int id action_bar 0x7f0c0041
 int id action_bar_activity_content 0x7f0c0000
@@ -467,6 +471,8 @@ int id beginning 0x7f0c0018
 int id button 0x7f0c005e
 int id button2 0x7f0c005f
 int id button3 0x7f0c0060
+int id button4 0x7f0c0061
+int id button5 0x7f0c0062
 int id buttonPanel 0x7f0c002b
 int id cancel_action 0x7f0c0051
 int id checkbox 0x7f0c0039

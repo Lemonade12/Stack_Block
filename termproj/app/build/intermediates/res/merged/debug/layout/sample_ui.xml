@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent" android:layout_height="match_parent">
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:weightSum="1"
+    android:baselineAligned="false"
+    android:orientation="vertical">
 
     <TextView
         android:layout_width="wrap_content"
@@ -11,8 +14,8 @@
 
     <Button
         style="?android:attr/buttonStyleSmall"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="75dp"
+        android:layout_height="33dp"
         android:text="rotate"
         android:id="@+id/button"
         android:nestedScrollingEnabled="true" />
@@ -20,14 +23,28 @@
     <Button
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="33dp"
         android:text="Move FB"
         android:id="@+id/button2" />
 
     <Button
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="LR"
+        android:layout_height="32dp"
+        android:text="Move LR"
         android:id="@+id/button3" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button4"
+        android:background="#f52121"
+        android:src="@drawable/zoomin2" />
+
+    <ImageButton
+        android:layout_width="54dp"
+        android:layout_height="54dp"
+        android:id="@+id/button5"
+        android:src="@drawable/zoomout2" />
+
 </LinearLayout>

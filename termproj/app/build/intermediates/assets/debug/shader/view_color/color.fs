@@ -6,9 +6,6 @@ uniform vec3 materialDiff, materialSpec, 		  // Md, Ms, Ma, Me
 uniform float materialSh;
 uniform vec3 sourceDiff, sourceSpec, sourceAmbi;  // Sd, Ss, Sa
 
-//you should define your input variables
-//varying vec3 ___
-//...
 varying vec3 v_normal;
 varying vec2 v_texCoord;
 varying vec3 v_lightDir, v_viewDir;

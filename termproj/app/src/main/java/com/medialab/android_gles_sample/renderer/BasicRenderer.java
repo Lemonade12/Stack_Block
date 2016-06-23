@@ -76,19 +76,25 @@ public class BasicRenderer {
 	// vertex buffer
 	private FloatBuffer mVertexData;
 	private ShortBuffer mIndices;
+	private FloatBuffer mTangentData;
 
 	int mVertexSize;
 	int mIndexSize;
+	int mTangentSize;
 	public static float Aty;
+
 	// vertex buffer object and index buffer object
 	int[] mVboVertices = {0};
 	int[] mVboIndices = {0};
+	int[] mVboTangents = {0};
 
 	// variables for texture handling
 	boolean mHasTexture;
+	boolean mHasNorMap;
 
 	// Texture object id
 	int[] mTexId = {0};
+	int[] mTexNorId = {0};
 
 	int direction;
 	int savedirectionz;
@@ -100,7 +106,6 @@ public class BasicRenderer {
 	float xpos;
 	//float scal = 0.98f;//scaling
 	float[] scal = {1.0f,0.9f,0.8f,0.7f,0.6f,0.5f,0.4f,0.3f,0.2f,0.1f};
-
 
 	boolean button2click;
 	boolean button3click;
@@ -124,13 +129,14 @@ public class BasicRenderer {
 		direction = -1;
 		savedirectionz = -1;
 		savedirectionx = -1;
+
 		startRotQuat = new Quaternionf();
 		lastRotQuat = startRotQuat;
 		ancPts = new Vector2f(mTouchPoint);
 		isUpdateAnc = false;
-		a = 0.0f;
-		b=0.0f;
+
 		mHasTexture = false;
+		mHasNorMap = false;
 
 		mIndexSize = 0;
 
@@ -138,6 +144,7 @@ public class BasicRenderer {
 		mShader = new BasicShader();
 		Aty = mCamera.GetAt().y;
 		rotationsection =0;
+
 	}
 
 	public BasicCamera GetCamera() {
@@ -178,6 +185,13 @@ public class BasicRenderer {
 				mHasTexture = true;
 				CreateTexBuffer(newTex[0], mTexId);
 				break;
+			case TEXDATA_NORMAL_MAP: // normal map
+				Log.i(TAG, "Set Texture : normal map\n");
+				mHasNorMap = true;
+//				if (mTangentData.empty())
+				ComputeTangent();
+				CreateTexBuffer(newTex[0], mTexNorId);
+				break;
 			default:
 				break;
 		}
@@ -187,7 +201,7 @@ public class BasicRenderer {
 		Log.i(TAG, "Initialize renderer.\n");
 		LogInfo();
 
-		//CountTickInit();
+		CountTickInit();
 
 		CreateVbo();
 		SetState();
@@ -319,13 +333,31 @@ public class BasicRenderer {
 		GLES20.glVertexAttribPointer(V_ATTRIB_NORMAL, 3, GLES20.GL_FLOAT, false, stride, offset);
 
 		// If renderer has texture, we should enable vertex attribute for texCoord
-		if (mHasTexture) {
+		if (mHasTexture || mHasNorMap) {
 			offset += 4 * 3;
 			GLES20.glEnableVertexAttribArray(V_ATTRIB_TEX);
 			GLES20.glVertexAttribPointer(V_ATTRIB_TEX, 2, GLES20.GL_FLOAT, false, stride, offset);
 
 			GLES20.glActiveTexture(GLES20.GL_TEXTURE0);
 			GLES20.glBindTexture(GLES20.GL_TEXTURE_2D, mTexId[0]);
+		}
+
+		if (mHasNorMap) {
+			// Bump mapping need to change space (world and TBN)
+			// mTangentBuffer calculated by ComputeTangent() when normal texture has set
+			GLES20.glGenBuffers(1, mVboTangents, 0);
+			mTangentData.position(0);
+			GLES20.glBindBuffer(GLES20.GL_ARRAY_BUFFER, mVboTangents[0]);
+			GLES20.glBufferData(GLES20.GL_ARRAY_BUFFER,
+					mTangentSize, mTangentData, GLES20.GL_STATIC_DRAW);
+
+			offset = 0;
+			stride = 4 * 3;
+			GLES20.glEnableVertexAttribArray(V_ATTRIB_TANGENT);
+			GLES20.glVertexAttribPointer(V_ATTRIB_TANGENT, 3, GLES20.GL_FLOAT, false, stride, offset);
+
+			GLES20.glActiveTexture(GLES20.GL_TEXTURE0 + TEX_POS_NORMAL);
+			GLES20.glBindTexture(GLES20.GL_TEXTURE_2D, mTexNorId[0]);
 		}
 	}
 
@@ -455,7 +487,7 @@ public class BasicRenderer {
 		fb.position(0);
 		Matrix4f m = new Matrix4f(fb);
 
-		float[] outArray = new float[4*4];
+		float[] outArray = new float[4 * 4];
 		m.invert().transpose().get(outArray);
 
 		return outArray;
@@ -473,6 +505,7 @@ public class BasicRenderer {
 		mShader.SetUniform("projMat", projMat);
 		mShader.SetUniform("invTransWorldMat", GetInverseTranspose(worldMat));
 		mShader.SetUniform("s_tex0", 0);
+		mShader.SetUniform("s_texNor", TEX_POS_NORMAL);
 		mShader.SetUniform("eyePos", mCamera.GetEye());
 		mShader.SetUniform("lightPos", 15.0f, 50.0f, 50.0f);
 		mShader.SetUniform("materialDiff", 1.0f, 1.0f, 1.0f);
@@ -502,7 +535,92 @@ public class BasicRenderer {
 		BasicUtils.PrintGLstring("GLSLversion", GLES20.GL_SHADING_LANGUAGE_VERSION);
 	}
 
+	void CountTickInit() {
+//		mTimer.InitTimer();
+	}
 
+	void ComputeTick() {
+//		static double lastTick = 0;
+//		double currTick = mTimer.GetElapsedTime();
+//		mDeltaTime = currTick - lastTick;
+//		lastTick = currTick;
+		//Log.i(TAG, "Tick: %f\n", mDeltaTime);
+	}
+
+	void ComputeTangent() {
+		int stride = 3 + 3 + 2;
+
+		short[] indices = new short[mIndices.capacity()];
+		mIndices.position(0);
+		for (int i = 0; i < indices.length; ++i) {
+			indices[i] = mIndices.get();
+		}
+
+		float[] vertices = new float[mVertexData.capacity()];
+		mVertexData.position(0);
+		for (int i = 0; i < vertices.length; ++i) {
+			vertices[i] = mVertexData.get();
+		}
+		Vec3[] tangents = new Vec3[indices.length];
+
+		// Compute Tangent Basis
+		for (int i = 0; i < mIndices.capacity(); i += 3) {
+			// Get triangle position
+			Vec3 p0 = new Vec3(vertices[indices[i] * stride],
+					vertices[indices[i] * stride + 1],
+					vertices[indices[i] * stride + 2]);
+			Vec3 p1 = new Vec3(vertices[indices[i + 1] * stride],
+					vertices[indices[i + 1] * stride + 1],
+					vertices[indices[i + 1] * stride + 2]);
+			Vec3 p2 = new Vec3(vertices[indices[i + 2] * stride],
+					vertices[indices[i + 2] * stride + 1],
+					vertices[indices[i + 2] * stride + 2]);
+
+			// Get triangle UV coordinate
+			Vec3 uv0 = new Vec3(vertices[indices[i] * stride + 6],
+					vertices[indices[i] * stride + 7], 0.0f);
+			Vec3 uv1 = new Vec3(vertices[indices[i + 1] * stride + 6],
+					vertices[indices[i + 1] * stride + 7], 0.0f);
+			Vec3 uv2 = new Vec3(vertices[indices[i + 2] * stride + 6],
+					vertices[indices[i + 2] * stride + 7], 0.0f);
+
+			// Compute delta
+			Vec3 deltaPos1 = Vec3.sub(p1, p0);
+			Vec3 deltaPos2 = Vec3.sub(p2, p0);
+
+			Vec3 deltaUV1 = Vec3.sub(uv1, uv0);
+			Vec3 deltaUV2 = Vec3.sub(uv2, uv0);
+
+			//Compute the tangent
+			float r = 1.0f / (deltaUV1.x * deltaUV2.y - deltaUV1.y * deltaUV2.x);
+			Vec3 tangent = Vec3.mul(deltaPos1, deltaUV2.y).sub(Vec3.mul(deltaPos2, deltaUV1.y)).mul(r);
+
+			// Put in temp array
+			tangents[i] = tangent;
+			tangents[i + 1] = tangent;
+			tangents[i + 2] = tangent;
+		}
+
+		// Initialize indTangents
+		Vec3[] indTangents = new Vec3[vertices.length / stride];
+		for (int i = 0; i < indTangents.length; ++i) {
+			indTangents[i] = new Vec3();
+		}
+
+		// Accumulate tangents by indices
+		for (int i = 0; i < tangents.length; i++) {
+			indTangents[indices[i]].add(tangents[i]);
+		}
+
+		// Convert array to bytebuffer for glsl transaction
+		mTangentData = ByteBuffer.allocateDirect(indTangents.length * 3 * 4)
+				.order(ByteOrder.nativeOrder()).asFloatBuffer();
+		for (int i = 0; i < indTangents.length; i++) {
+			mTangentData.put(indTangents[i].getArray());
+		}
+		mTangentSize = indTangents.length * 3 * 4;
+
+	}
 
 	public void ImportModel(InputStream obj) {
 
@@ -588,8 +706,6 @@ public class BasicRenderer {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		//void computetick( ){
-
 
 
 		mVertexData = ByteBuffer.allocateDirect(vertex.size() * 4)

@@ -1,14 +1,16 @@
 precision mediump float;
 
 uniform sampler2D s_tex0;
+uniform sampler2D s_texNor;
+
 uniform vec3 materialDiff, materialSpec, 		  // Md, Ms, Ma, Me
 			 materialAmbi, materialEmit;
 uniform float materialSh;
 uniform vec3 sourceDiff, sourceSpec, sourceAmbi;  // Sd, Ss, Sa
 
-varying vec3 v_normal;
 varying vec2 v_texCoord;
 varying vec3 v_lightDir, v_viewDir;
+varying mat3 TangentToWorldSpace;
 
 //vec4 gl_FragColor;
 
@@ -36,11 +38,13 @@ vec3 phongLight(vec3 view,vec3 normal,Material M,Light S){
 void main() {
 	//you should fill in this function
     vec3 materialDiff = texture2D(s_tex0, v_texCoord).xyz;
+    vec3 norTS = normalize(texture2D(s_texNor, v_texCoord).xyz * 2.0 - vec3(1.0));
+    vec3 norWS = TangentToWorldSpace * norTS;
 
     Material material = Material(materialSh, materialDiff, materialSpec, materialAmbi, materialEmit);
     Light source = Light(normalize(v_lightDir), sourceDiff, sourceSpec, sourceAmbi);
 
-    vec3 color = phongLight(normalize(v_viewDir), normalize(v_normal), material, source);
+    vec3 color = phongLight(normalize(v_viewDir), normalize(norWS), material, source);
     gl_FragColor = vec4(color, 1.0);
 	//gl_FragColor =
 }

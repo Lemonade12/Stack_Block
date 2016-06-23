@@ -1,8 +1,6 @@
 package com.medialab.android_gles_sample.renderer;
 
 import android.opengl.Matrix;
-import com.medialab.android_gles_sample.renderer.BasicRenderer;
-import android.text.method.Touch;
 
 public class BasicCamera {
 
@@ -28,21 +26,20 @@ public class BasicCamera {
 	float[] mPerspectiveMat;
 	BasicRenderer mRenderer;
 	int direction = 1;
+
 	public BasicCamera()
 	{
 		mIsTouchOn = false;//여기
-
 		mEye = new Vec3(150.0f, 25.0f, -100.f);
 		mDist = 150.0f;
 		mUp = new Vec3(0, 1.0f, 0.0f);
-		mFw = new Vec3(0,BasicRenderer.Aty/10, -1.0f);
+		mFw = new Vec3(0, 0, -1.0f);
 		mAngle = new Vec3(0, -45.0f, 0);
 		m_zNear = 2.0f;
 		m_zFar = 10000.0f;
 		mAt = new Vec3(0);
 		mPerspectiveMat = new float[16];
 		mLookatMat = new float[16];
-
 
 		mAt = new Vec3(0);
 		mDist = Vec3.length(Vec3.sub(mEye, mAt));
@@ -179,8 +176,31 @@ public class BasicCamera {
 	}
 
 
+/*
+	void BasicCamera::ZoomIn(const float& vel)
+	{
+		vec3 dir = mAt - mEye;
+		float remain = glm::length(dir);
+		remain -= ZOOM_MIN_LENGTH;
+		dir = normalize(dir);
 
+		remain = (remain > vel) ? vel : remain;
+		dir *= remain;
+		mEye += dir;
+		mDist -= remain;
+	}
+*/
 
+/*
+	void BasicCamera::ZoomOut(const float& vel)
+	{
+		vec3 dir = mEye - mAt;
+		dir = normalize(dir);
+		dir *= vel;
+		mEye += dir;
+		mDist += vel;
+	}
+*/
 
 
 	public void SetEye(float x, float y, float z)
@@ -261,4 +281,5 @@ public class BasicCamera {
 		mEye.add(dir);
 		UpdateAt();
 	}
+
 }

@@ -4,18 +4,19 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.view.MotionEvent;
 import android.view.View;
+import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import android.widget.Button;
 
-import com.medialab.android_gles_sample.renderer.BasicRenderer;
 import com.medialab.android_gles_sample.renderer.BasicCamera;
+import com.medialab.android_gles_sample.renderer.BasicRenderer;
 
 public abstract class SampleView extends Activity {
     private GLView mGLView;
     private GLViewCallback mGLViewCallback;
-    public BasicRenderer mRenderer;
+    protected BasicRenderer mRenderer;
     public BasicCamera mCamera;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,10 +26,9 @@ public abstract class SampleView extends Activity {
         mRenderer = new BasicRenderer();
         mCamera = new BasicCamera();
 
+
         mGLView.setRenderer(mGLViewCallback);
-
         setContentView(mGLView);
-
         addUi();
         Button btn = (Button)findViewById(R.id.button);
         Button btn6 = (Button)findViewById(R.id.button6);
@@ -77,6 +77,7 @@ public abstract class SampleView extends Activity {
                 return false;
             }
         });
+
     }
 
     @Override

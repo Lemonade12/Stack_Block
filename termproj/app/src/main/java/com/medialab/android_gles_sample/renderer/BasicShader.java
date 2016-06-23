@@ -1,11 +1,8 @@
 package com.medialab.android_gles_sample.renderer;
 
 import android.opengl.GLES20;
-import android.opengl.Matrix;
-import android.renderscript.Matrix4f;
 import android.util.Log;
 
-import java.nio.IntBuffer;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -98,10 +95,10 @@ public class BasicShader {
 			}
 
 			// GLES30 doesn't need this
-		//	GLES20.glBindAttribLocation(program, V_ATTRIB_POSITION, "position");
-		//	GLES20.glBindAttribLocation(program, V_ATTRIB_NORMAL, "normal");
-		//	GLES20.glBindAttribLocation(program, V_ATTRIB_TEX, "texCoord");
-		//	GLES20.glBindAttribLocation(program, V_ATTRIB_TANGENT, "tangent");
+			GLES20.glBindAttribLocation(program, V_ATTRIB_POSITION, "position");
+			GLES20.glBindAttribLocation(program, V_ATTRIB_NORMAL, "normal");
+			GLES20.glBindAttribLocation(program, V_ATTRIB_TEX, "texCoord");
+			GLES20.glBindAttribLocation(program, V_ATTRIB_TANGENT, "tangent");
 
 			GLES20.glLinkProgram(program);
 			BasicUtils.CheckGLerror("glLinkProgram");

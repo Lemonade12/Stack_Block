@@ -11,7 +11,7 @@ varying vec3 v_lightDir, v_viewDir;
 
 void main() {
     gl_Position = projMat * viewMat * worldMat * vec4(position, 1.0);
-	v_normal = mat3(worldMat) * normal;
+	v_normal = mat3(invTransWorldMat) * normal;		//uniform scale only
     v_texCoord = texCoord;
 
     vec3 posWS = (worldMat * vec4(position, 1.0)).xyz;

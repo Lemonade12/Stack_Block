@@ -9,7 +9,8 @@ import java.nio.ByteBuffer;
 public class TexData {
 
 	public enum Type {
-		TEXDATA_GENERAL
+		TEXDATA_GENERAL,
+		TEXDATA_NORMAL_MAP
 	}
 
 	ByteBuffer pixels;

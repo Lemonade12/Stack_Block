@@ -28,7 +28,7 @@ public class FragLightingView extends SampleView {
 
 		//mViewRenderer->OffAutoRotate();
 		mRenderer.GetCamera().SetEye(25.0f, 25.0f, 25.0f);
-		mRenderer.GetCamera().SetAt(0, 10, 0);
+		mRenderer.GetCamera().SetAt(0, 0, 0);
 	}
 
 }

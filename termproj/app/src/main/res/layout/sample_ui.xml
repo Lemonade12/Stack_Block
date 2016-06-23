@@ -22,6 +22,14 @@
 
     <Button
         style="?android:attr/buttonStyleSmall"
+        android:layout_width="75dp"
+        android:layout_height="33dp"
+        android:text="shuffle"
+        android:id="@+id/button6"
+        android:nestedScrollingEnabled="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="33dp"
         android:text="Move FB"

@@ -26,7 +26,7 @@ public class BasicCamera {
 
 	float[] mLookatMat;
 	float[] mPerspectiveMat;
-
+	BasicRenderer mRenderer;
 	int direction = 1;
 	public BasicCamera()
 	{
@@ -35,7 +35,7 @@ public class BasicCamera {
 		mEye = new Vec3(150.0f, 25.0f, -100.f);
 		mDist = 150.0f;
 		mUp = new Vec3(0, 1.0f, 0.0f);
-		mFw = new Vec3(0, 0, -1.0f);
+		mFw = new Vec3(0,BasicRenderer.Aty/10, -1.0f);
 		mAngle = new Vec3(0, -45.0f, 0);
 		m_zNear = 2.0f;
 		m_zFar = 10000.0f;
@@ -43,7 +43,7 @@ public class BasicCamera {
 		mPerspectiveMat = new float[16];
 		mLookatMat = new float[16];
 
-		button5click = false;
+
 		mAt = new Vec3(0);
 		mDist = Vec3.length(Vec3.sub(mEye, mAt));
 		UpdateAngle();
@@ -90,8 +90,8 @@ public class BasicCamera {
 			mEye.y += 2.0f;
 			mAt.y +=2.0f;
 		}//여기
-		if(BasicRenderer.button4click) 	MoveForward(0.2f);
-		if(BasicRenderer.button5click)	MoveBackward(0.2f);
+		if(BasicRenderer.button4click) 	ZoomIn(0.2f);
+		if(BasicRenderer.button5click)	ZoomOut(0.2f);
 
 		Matrix.setLookAtM(mLookatMat, 0,
 				mEye.x, mEye.y, mEye.z,
@@ -100,6 +100,28 @@ public class BasicCamera {
 		return mLookatMat;
 	}
 
+	void ZoomIn(float vel)
+	{
+		Vec3 dir = Vec3.sub(mAt,mEye);
+		float remain = Vec3.sub(mAt, mEye).length();
+		remain -= ZOOM_MIN_LENGTH;
+		dir = dir.normalize();
+
+		remain = (remain > vel) ? vel : remain;
+		dir.mul(remain);
+		mEye.add( dir);
+		mDist -= remain;
+	}
+
+
+	void ZoomOut(float vel)
+	{
+		Vec3 dir = Vec3.sub(mEye,mAt);
+		dir = dir.normalize();
+		dir.mul(vel);
+		mEye.add(dir);
+		mDist += vel;
+	}
 
 	void UpdateAngle()
 	{

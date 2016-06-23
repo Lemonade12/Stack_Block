@@ -1623,10 +1623,11 @@ containing a value of this type.
         public static final int always=0x7f0c001b;
         public static final int beginning=0x7f0c0018;
         public static final int button=0x7f0c005e;
-        public static final int button2=0x7f0c005f;
-        public static final int button3=0x7f0c0060;
-        public static final int button4=0x7f0c0061;
-        public static final int button5=0x7f0c0062;
+        public static final int button2=0x7f0c0060;
+        public static final int button3=0x7f0c0061;
+        public static final int button4=0x7f0c0062;
+        public static final int button5=0x7f0c0063;
+        public static final int button6=0x7f0c005f;
         public static final int buttonPanel=0x7f0c002b;
         public static final int cancel_action=0x7f0c0051;
         public static final int checkbox=0x7f0c0039;

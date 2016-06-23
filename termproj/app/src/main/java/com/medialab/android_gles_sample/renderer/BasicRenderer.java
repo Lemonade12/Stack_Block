@@ -32,6 +32,10 @@ import java.util.List;
 import java.util.StringTokenizer;
 import java.util.Vector;
 
+
+import java.util.Random;
+import java.lang.Math;
+
 public class BasicRenderer {
 
 	private static String TAG = "BasicRenderer";
@@ -75,7 +79,7 @@ public class BasicRenderer {
 
 	int mVertexSize;
 	int mIndexSize;
-
+	public static float Aty;
 	// vertex buffer object and index buffer object
 	int[] mVboVertices = {0};
 	int[] mVboIndices = {0};
@@ -94,7 +98,8 @@ public class BasicRenderer {
 	static float b;
 	float zpos;
 	float xpos;
-	float scal = 0.98f;//scaling
+	//float scal = 0.98f;//scaling
+	float[] scal = {1.0f,0.9f,0.8f,0.7f,0.6f,0.5f,0.4f,0.3f,0.2f,0.1f};
 
 
 	boolean button2click;
@@ -131,6 +136,7 @@ public class BasicRenderer {
 
 		mCamera = new BasicCamera();
 		mShader = new BasicShader();
+		Aty = mCamera.GetAt().y;
 		rotationsection =0;
 	}
 
@@ -201,10 +207,6 @@ public class BasicRenderer {
 
 	public void RenderFrame() {
 		int i =0;
-		int j = 0;
-		float s1;
-		float s2 = 1.0f;
-		float t2 = 0.0f;
 		//Log.i(TAG, "RenderFrame()");
 		//ComputeTick();
 
@@ -217,16 +219,10 @@ public class BasicRenderer {
 
 		PassUniform();
 		for(i=0;i<save;i++) {
-			s1 = 1.0f - i*0.1f;
-			if(s1 < 0) s1 = 0.0f;
-			for(j=0; j<i; j++){
-				s2 *= scal;
-			}
-			mShader.SetUniform("relPos", xpos, t2, zpos);
-			t2 += 2 * s2;// y에 대한 scaling에 따른 높이조절
-			mShader.SetUniform("scaling1",s1,0.0f,0.0f);
-			mShader.SetUniform("scaling2",0.0f,s2,0.0f);
-			mShader.SetUniform("scaling3",0.0f,0.0f,s1);
+			mShader.SetUniform("relPos", xpos, 2 * i, zpos);
+			mShader.SetUniform("scaling1",scal[i],0.0f,0.0f);
+			mShader.SetUniform("scaling2",0.0f,1.0f,0.0f);
+			mShader.SetUniform("scaling3",0.0f,0.0f,scal[i]);
 			Draw();
 		}
 	}
@@ -398,14 +394,13 @@ public class BasicRenderer {
 					}
 					System.out.println("stop:" +a);
 					System.out.println("zpos:" +zpos);
-					save++;
+					if(save<10){//쌓을때마다 카메라를 위로 올려줌
+						//mCamera.mEye.y += 0.5f;
+						mCamera.mAt.y += 1.0f;
+					}
+					if(save<10)save++;
 					ancPts.x = -9999;
 					ancPts.y = -9999;
-
-					if(save<11){//쌓을때마다 카메라를 위로 올려줌
-						mCamera.mEye.y += 0.5f;
-						mCamera.mAt.y += 0.5f;
-					}
 				}
 			}
 		} else {
@@ -421,11 +416,23 @@ public class BasicRenderer {
 			if (direction == 0) {
 				a += vel;
 				rotationMat.mytranslation(0, 0, a);
-				if ((a+zpos) >= 10) direction = 1;
+				if ((a+zpos) >= 10) {
+					if (save > 1) {
+						save--;
+						if (save < 10) mCamera.mAt.y -= 1.0f;
+					}
+					direction = 1;
+				}
 			} else if (direction == 1) {
 				a -= vel;
 				rotationMat.mytranslation(0, 0, a);
-				if ((a+zpos) <= -10) direction = 0;
+				if ((a+zpos) <= -10) {
+					if(save>1) {
+						save--;
+						if (save < 10) mCamera.mAt.y -= 1.5f;
+					}
+					direction = 0;
+				}
 			}
 		}
 		if(button3click){
@@ -439,6 +446,7 @@ public class BasicRenderer {
 				if((b+xpos)<=-10) direction = 3;
 			}
 		}
+		Aty =  mCamera.mAt.y;
 		rotationMat.get(farray);
 		return farray;
 	}
@@ -605,6 +613,26 @@ public class BasicRenderer {
 	}
 
 	public void ButtonClick() { if(rotationsection ==0)rotationsection = 1;}
+
+	public void Button6Click() {
+
+		Random rand = new Random();
+		if(save > 1){
+			for(int i=0;i<save;i++){
+				int first = rand.nextInt(save);
+				int second = rand.nextInt(save);
+				if(first == second){
+					second = (second > 0)? second - 1 : second + 1;
+				}
+				float firstNum = scal[first];
+				float secondNum = scal[second];
+
+				scal[first] = secondNum;
+				scal[second] = firstNum;
+			}
+		}
+
+	}
 
 	public void Button2Click() {
 		System.out.println(direction);

@@ -220,9 +220,7 @@ public class BasicRenderer {
 		PassUniform();
 		for(i=0;i<save;i++) {
 			mShader.SetUniform("relPos", xpos, 2 * i, zpos);
-			mShader.SetUniform("scaling1",scal[i],0.0f,0.0f);
-			mShader.SetUniform("scaling2",0.0f,1.0f,0.0f);
-			mShader.SetUniform("scaling3",0.0f,0.0f,scal[i]);
+			mShader.SetUniform("scaling1",scal[i],1.0f,scal[i]);
 			Draw();
 		}
 	}

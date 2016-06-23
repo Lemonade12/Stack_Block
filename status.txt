@@ -26,3 +26,4 @@
 4. texturing image 바꿔줌
 5. rotation 시 움직임을 볼 수 있도록 수정
 6. normal mapping 적용
+7. 카메라의 고정위치 변경

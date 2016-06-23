@@ -81,7 +81,6 @@ public class BasicRenderer {
 	int mVertexSize;
 	int mIndexSize;
 	int mTangentSize;
-	public static float Aty;
 
 	// vertex buffer object and index buffer object
 	int[] mVboVertices = {0};
@@ -99,13 +98,14 @@ public class BasicRenderer {
 	int direction;
 	int savedirectionz;
 	int savedirectionx;
-	float vel = 0.15f;
+	float vel = 0.25f;
 	static float a; // translation위해 임시 변수
 	static float b;
 	float zpos;
 	float xpos;
-	//float scal = 0.98f;//scaling
+	int bottom;
 	float[] scal = {1.0f,0.9f,0.8f,0.7f,0.6f,0.5f,0.4f,0.3f,0.2f,0.1f};
+	int lookdirection;
 
 	boolean button2click;
 	boolean button3click;
@@ -129,21 +129,20 @@ public class BasicRenderer {
 		direction = -1;
 		savedirectionz = -1;
 		savedirectionx = -1;
-
 		startRotQuat = new Quaternionf();
 		lastRotQuat = startRotQuat;
 		ancPts = new Vector2f(mTouchPoint);
 		isUpdateAnc = false;
-
+		a = 0.0f;
+		b=0.0f;
 		mHasTexture = false;
-		mHasNorMap = false;
-
+		lookdirection = 0;
 		mIndexSize = 0;
 
 		mCamera = new BasicCamera();
 		mShader = new BasicShader();
-		Aty = mCamera.GetAt().y;
 		rotationsection =0;
+		bottom = 0;
 
 	}
 
@@ -232,9 +231,11 @@ public class BasicRenderer {
 		BasicUtils.CheckGLerror("glClear");
 
 		PassUniform();
-		for(i=0;i<save;i++) {
-			mShader.SetUniform("relPos", xpos, 2 * i, zpos);
-			mShader.SetUniform("scaling1",scal[i],1.0f,scal[i]);
+		for(i=bottom;i<save;i++) {
+			mShader.SetUniform("relPos", xpos, 2*i, zpos);
+
+			if((i/10)%2==0) mShader.SetUniform("scaling1",scal[i%10],1.0f,scal[i%10]);
+			else mShader.SetUniform("scaling1",scal[9-(i%10)],1.0f,scal[9-(i%10)]);
 			Draw();
 		}
 	}
@@ -386,21 +387,28 @@ public class BasicRenderer {
 		float angle = (float) Math.PI / 32;
 
 		if (rotationsection!=0) {
-			Vector3f va = GetArcballVector(ancPts);
-			Vector3f vb = GetArcballVector(mTouchPoint);
-			Matrix4f viewmat = new Matrix4f();
-			viewmat.set(mCamera.GetViewMat());
+			Vector3f va = new Vector3f(1,0,0);//Vector3f GetArcballVector(Vector2f point)
+			Vector3f vb = new Vector3f(0,0,1);
+					/*드래그 한 직선의 직교벡터를 구한다*/
+			Vector3f axisincamera = vb.cross(va);
 
-			Vector3f axisInCameraSpace = new Vector3f(0, 1, 0);
-			axisInCameraSpace.mulDirection(viewmat);
+					/*회전하기 직전상태의 worldMat의 역함수를 구하는과정*/
+			Quaternionf temp = new Quaternionf(startRotQuat); // startRotQuat를 저장하기위해 임시생성
+			Matrix4f camera2object = new Matrix4f();
+			camera2object.set(startRotQuat.invert(temp)); // 회전하기전의 최근의 worldMat의 역함수를 저장한다
 
-			fb.put(GetCamera().GetViewMat());
-			fb.position(0);
-			Matrix4f cameraToObjectSpace = new Matrix4f(fb).invert();
-			Vector3f axisInObjectSpace = new Matrix3f(cameraToObjectSpace).transform(axisInCameraSpace).normalize();
+					/*viewMat의 역함수를 구하는과정*/
+			Matrix3f c2oMat3 = new Matrix3f();
 
-			Quaternionf curRotQuat = new Quaternionf(new AxisAngle4f(angle, axisInObjectSpace.x, axisInObjectSpace.y, axisInObjectSpace.z));
-			lastRotQuat = curRotQuat.mul(startRotQuat).normalize();
+			c2oMat3.set(camera2object);//camera2object를 Mat3형식으로 바꾼다		.
+
+					/* 이것이 최후의 회전축이 될 녀석이다.*/
+			Vector3f axisinobject = new Vector3f();
+			axisinobject = axisincamera.mul(c2oMat3);//cameraspace에서 objectspace로 이동시켜주는 Mat3와 위에서 구한 터치이동방향의 crossvector를 곱한다
+			//결론적으로 axisinobject는  터치이동방향의 croossvector을 objectspace차원으로 인식해 축으로 사용하는것이다
+
+					/*위에서 구한 axisinobect 축을 중심으로 ANLGLE만큼 회전*/
+			lastRotQuat.rotateAxis(angle, axisinobject.x, axisinobject.y,axisinobject.z);
 
 			if((rotationsection ++)%16 == 0)	rotationsection = 0;
 
@@ -413,7 +421,6 @@ public class BasicRenderer {
 				Log.i(TAG, "Anchor Updated\n");
 			} else {
 				if ((mTouchPoint.x >= ancPts.x - 10 && mTouchPoint.x <= ancPts.x + 10) && (mTouchPoint.y >= ancPts.y - 10 && mTouchPoint.y <= ancPts.y + 10)) {
-					System.out.println("befzpos:" +zpos);
 					if(a!=0) {
 						zpos = a + zpos;
 						a = 0;
@@ -422,13 +429,12 @@ public class BasicRenderer {
 						xpos = b + xpos;
 						b=0;
 					}
-					System.out.println("stop:" +a);
-					System.out.println("zpos:" +zpos);
-					if(save<10){//쌓을때마다 카메라를 위로 올려줌
-						//mCamera.mEye.y += 0.5f;
-						mCamera.mAt.y += 1.0f;
+					//쌓을때마다 카메라를 위로 올려줌\
+					if(lookdirection==0) {
+						mCamera.mEye.y += 2.0f;
+						mCamera.mAt.y += 2.0f;
 					}
-					if(save<10)save++;
+					save++;
 					ancPts.x = -9999;
 					ancPts.y = -9999;
 				}
@@ -447,9 +453,12 @@ public class BasicRenderer {
 				a += vel;
 				rotationMat.mytranslation(0, 0, a);
 				if ((a+zpos) >= 10) {
-					if (save > 1) {
+					if (save-bottom > 1) {
 						save--;
-						if (save < 10) mCamera.mAt.y -= 1.0f;
+						if(lookdirection==0) {
+							mCamera.mEye.y -= 2.0f;
+							mCamera.mAt.y -= 2.0f;
+						}
 					}
 					direction = 1;
 				}
@@ -457,9 +466,12 @@ public class BasicRenderer {
 				a -= vel;
 				rotationMat.mytranslation(0, 0, a);
 				if ((a+zpos) <= -10) {
-					if(save>1) {
+					if(save-bottom>1) {
 						save--;
-						if (save < 10) mCamera.mAt.y -= 1.5f;
+						if(lookdirection==0) {
+							mCamera.mEye.y -= 2.0f;
+							mCamera.mAt.y -= 2.0f;
+						}
 					}
 					direction = 0;
 				}
@@ -469,14 +481,31 @@ public class BasicRenderer {
 			if(direction == 3){
 				b+=vel;
 				rotationMat.mytranslation(b,0,0);
-				if((b+xpos)>=10) direction = 4;
+				if((b+xpos)>=10){
+					if(bottom<save-1) {
+						bottom++;
+						if(lookdirection==1) {
+							mCamera.mEye.y += 2.0f;
+							mCamera.mAt.y += 2.0f;
+						}
+					}
+					direction = 4;
+				}
 			}else if(direction == 4){
 				b-=vel;
 				rotationMat.mytranslation(b,0,0);
-				if((b+xpos)<=-10) direction = 3;
+				if((b+xpos)<=-10){
+					if(bottom<save-1) {
+						bottom++;
+						if(lookdirection==1) {
+							mCamera.mEye.y += 2.0f;
+							mCamera.mAt.y += 2.0f;
+						}
+					}
+					direction = 3;
+				}
 			}
 		}
-		Aty =  mCamera.mAt.y;
 		rotationMat.get(farray);
 		return farray;
 	}
@@ -787,11 +816,9 @@ public class BasicRenderer {
 
 
 	public void Button4clickset(){
-		System.out.println(button4click);
 		button4click = true;
 	}
 	public void Button4clickoff(){
-		System.out.println("skxk" +button4click);
 		button4click = false;
 	}
 	public void Button5clickset(){
@@ -799,6 +826,16 @@ public class BasicRenderer {
 	}
 	public void Button5clickoff(){
 		button5click = false;
+	}
+	public void Button11click(){
+		lookdirection = 1;
+		mCamera.mAt.y = bottom*2;
+		mCamera.mEye.y = bottom*2 + 30;
+	}
+	public void Button10click(){
+		lookdirection =0;
+		mCamera.mAt.y = (save-1)*2.0f;
+		mCamera.mEye.y = 30+(save-1)*2.0f;
 	}
 	public void TouchOff() {
 		mIsTouchOn = false;

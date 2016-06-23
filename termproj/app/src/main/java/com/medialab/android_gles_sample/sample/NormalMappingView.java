@@ -30,7 +30,7 @@ public class NormalMappingView extends SampleView {
 		mRenderer.Initialize();
 
 		//mViewRenderer->OffAutoRotate();
-		mRenderer.GetCamera().SetEye(25.0f, 25.0f, 25.0f);
+		mRenderer.GetCamera().SetEye(30.0f, 30.0f, 30.0f);
 		mRenderer.GetCamera().SetAt(0, 0, 0);
 	}
 

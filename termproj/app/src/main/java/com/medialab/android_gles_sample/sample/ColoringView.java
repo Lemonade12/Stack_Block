@@ -16,14 +16,16 @@ public class ColoringView extends SampleView {
 		String fs = FileLoader.ReadTxtFile(this, "shader/view_color/color.fs");
 		mRenderer.SetProgram(vs, fs);
 
-		InputStream teapot = FileLoader.GetStream(this, "obj3d/block");
+		InputStream block = FileLoader.GetStream(this, "obj3d/block");
+
 
 		TexData[] textJ = new TexData[1];
 		TexData[] normal_texJ = new TexData[1];
+
 		textJ[0] = FileLoader.ReadTexture(this, R.drawable.pyramid);
 		normal_texJ[0] = FileLoader.ReadTexture(this, R.drawable.pyramid_n6);
 
-		mRenderer.SetNewModel(teapot);
+		mRenderer.SetNewModel(block);
 		mRenderer.SetTexture(TexData.Type.TEXDATA_GENERAL, textJ);
 		mRenderer.SetTexture(TexData.Type.TEXDATA_NORMAL_MAP, normal_texJ);
 

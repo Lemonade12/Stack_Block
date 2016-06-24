@@ -32,6 +32,15 @@
             android:id="@+id/button"
             android:nestedScrollingEnabled="true"
             android:layout_gravity="left|bottom" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="75dp"
+            android:layout_height="33dp"
+            android:text="light"
+            android:id="@+id/button7"
+            android:nestedScrollingEnabled="true"
+            android:layout_gravity="right|center_vertical" />
     </FrameLayout>
 
     <Button

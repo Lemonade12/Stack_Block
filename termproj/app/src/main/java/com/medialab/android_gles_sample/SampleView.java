@@ -32,6 +32,7 @@ public abstract class SampleView extends Activity {
         addUi();
         Button btn = (Button)findViewById(R.id.button);
         Button btn6 = (Button)findViewById(R.id.button6);
+        Button btn7 = (Button)findViewById(R.id.button7);
         Button btn2 = (Button)findViewById(R.id.button2);
         Button btn3 = (Button)findViewById(R.id.button3);
         btn.setOnClickListener(new Button.OnClickListener() {
@@ -42,6 +43,11 @@ public abstract class SampleView extends Activity {
         btn6.setOnClickListener(new Button.OnClickListener() {
             public void onClick(View v) {
                 mRenderer.Button6Click();
+            }
+        });
+        btn7.setOnClickListener(new Button.OnClickListener() {
+            public void onClick(View v) {
+                mRenderer.Button7Click();
             }
         });
         btn2.setOnClickListener(new Button.OnClickListener() {

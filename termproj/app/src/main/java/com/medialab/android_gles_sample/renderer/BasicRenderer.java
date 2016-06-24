@@ -111,6 +111,7 @@ public class BasicRenderer {
 	boolean button3click;
 	public static boolean button4click;
 	public static boolean button5click;
+	public static boolean button7click;
 	int save=1;
 	int rotationsection;
 	boolean IsShuffle;
@@ -121,6 +122,7 @@ public class BasicRenderer {
 		button3click = false;
 		button4click = false;
 		button5click = false;
+		button7click = false;
 		mWidth = 0;
 		mHeight = 0;
 		mDeltaTime = 0;
@@ -233,6 +235,9 @@ public class BasicRenderer {
 		BasicUtils.CheckGLerror("glClear");
 
 		PassUniform();
+		if(button7click == true){
+			mShader.SetUniform("lightPos", 50.0f, 50.0f, 15.0f);
+		}
 		for(i=bottom;i<save;i++) {
 			mShader.SetUniform("relPos", xpos, 2*i, zpos);
 
@@ -789,6 +794,15 @@ public class BasicRenderer {
 			IsShuffle = false;
 		}
 
+	}
+
+	public void Button7Click(){
+		if(button7click == false){
+			button7click = true;
+		}
+		else{
+			button7click = false;
+		}
 	}
 
 	public void Button2Click() {

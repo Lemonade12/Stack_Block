@@ -24,8 +24,6 @@
             </intent-filter>
         </activity>
         <activity android:name="com.medialab.android_gles_sample.sample.ColoringView" />
-        <activity android:name="com.medialab.android_gles_sample.sample.FragLightingView" />
-        <activity android:name="com.medialab.android_gles_sample.sample.NormalMappingView" />
     </application>
 
 </manifest>

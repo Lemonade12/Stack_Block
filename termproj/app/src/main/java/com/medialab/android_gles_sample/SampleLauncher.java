@@ -1,16 +1,13 @@
 package com.medialab.android_gles_sample;
 
 import com.medialab.android_gles_sample.sample.ColoringView;
-import com.medialab.android_gles_sample.sample.FragLightingView;
-import com.medialab.android_gles_sample.sample.NormalMappingView;
 
 
 // Type of Sample View
+
 enum ViewType
 {
-	VIEW_COLOR,
-	VIEW_FRAG_LIGHT,
-	VIEW_NORMAL
+	VIEW_COLOR
 }
 
 
@@ -39,13 +36,6 @@ public class SampleLauncher {
 			case VIEW_COLOR:
 				curView = new ColoringView();
 				break;
-			case VIEW_FRAG_LIGHT:
-				curView = new FragLightingView();
-				break;
-			case VIEW_NORMAL:
-				curView = new NormalMappingView();
-				break;
-
 			default:
 
 				break;

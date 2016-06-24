@@ -77,7 +77,16 @@ public abstract class SampleView extends Activity {
                 return false;
             }
         });
-
+        findViewById(R.id.button10).setOnClickListener(new Button.OnClickListener() {
+            public void onClick(View v) {
+                mRenderer.Button10click();
+            }
+        });
+        findViewById(R.id.button11).setOnClickListener(new Button.OnClickListener() {
+            public void onClick(View v) {
+                mRenderer.Button11click();
+            }
+        });
     }
 
     @Override

@@ -6,9 +6,8 @@ public class BasicCamera {
 
 	public static double TORADIAN = Math.PI / 180.0;
 	public static float ROTATION_VEL = 45.0f;
-	public static float ZOOM_MIN_LENGTH = 5.0f;
+	public static float ZOOM_MIN_LENGTH = 10.0f;
 
-	boolean button5click;
 	public static boolean mIsTouchOn;//여기
 
 	Vec3 mEye;
@@ -24,8 +23,6 @@ public class BasicCamera {
 
 	float[] mLookatMat;
 	float[] mPerspectiveMat;
-	BasicRenderer mRenderer;
-	int direction = 1;
 
 	public BasicCamera()
 	{
@@ -176,33 +173,6 @@ public class BasicCamera {
 	}
 
 
-/*
-	void BasicCamera::ZoomIn(const float& vel)
-	{
-		vec3 dir = mAt - mEye;
-		float remain = glm::length(dir);
-		remain -= ZOOM_MIN_LENGTH;
-		dir = normalize(dir);
-
-		remain = (remain > vel) ? vel : remain;
-		dir *= remain;
-		mEye += dir;
-		mDist -= remain;
-	}
-*/
-
-/*
-	void BasicCamera::ZoomOut(const float& vel)
-	{
-		vec3 dir = mEye - mAt;
-		dir = normalize(dir);
-		dir *= vel;
-		mEye += dir;
-		mDist += vel;
-	}
-*/
-
-
 	public void SetEye(float x, float y, float z)
 	{
 		mEye.x = x;
@@ -230,56 +200,4 @@ public class BasicCamera {
 	{
 		return mAt;
 	}
-
-	public void MoveForward(float vel)
-	{
-		Vec3 dir = Vec3.sub(mAt, mEye);
-		dir.normalize().mul(vel);
-		mEye.add(dir);
-		UpdateAt();
-	}
-
-	void MoveBackward(float vel)
-	{
-		Vec3 dir = Vec3.sub(mEye, mAt);
-		dir.normalize().mul(vel);
-		mEye.add(dir);
-		UpdateAt();
-	}
-
-	void MoveRight(float vel)
-	{
-		Vec3 abc = new Vec3(25,0,0);
-		Vec3 dir = Vec3.sub(abc, mAt);
-		dir.normalize();
-		dir = Vec3.cross(mUp, dir).mul(-vel);
-		mEye.add(dir);
-		UpdateAt();
-	}
-
-	void MoveLeft(float vel)
-	{
-		Vec3 abc = new Vec3(25,0,0);
-		Vec3 dir = Vec3.sub(abc, mAt);
-		dir.normalize();
-		dir = Vec3.cross(mUp, dir).mul(vel);
-		mEye.add(dir);
-		UpdateAt();
-	}
-
-	void MoveUp(float vel)
-	{
-		Vec3 dir = Vec3.mul(mUp, vel);
-		mEye.add(dir);
-		UpdateAt();
-
-	}
-
-	void MoveDown(float vel)
-	{
-		Vec3 dir = Vec3.mul(mUp, -vel);
-		mEye.add(dir);
-		UpdateAt();
-	}
-
 }

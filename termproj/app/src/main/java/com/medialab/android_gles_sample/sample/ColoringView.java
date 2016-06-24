@@ -16,7 +16,7 @@ public class ColoringView extends SampleView {
 		String fs = FileLoader.ReadTxtFile(this, "shader/view_color/color.fs");
 		mRenderer.SetProgram(vs, fs);
 
-		InputStream teapot = FileLoader.GetStream(this, "obj3d/teapot");
+		InputStream teapot = FileLoader.GetStream(this, "obj3d/block");
 
 		TexData[] textJ = new TexData[1];
 		TexData[] normal_texJ = new TexData[1];
@@ -30,7 +30,7 @@ public class ColoringView extends SampleView {
 		mRenderer.Initialize();
 
 		//mViewRenderer->OffAutoRotate();
-		mRenderer.GetCamera().SetEye(25.0f, 25.0f, 25.0f);
+		mRenderer.GetCamera().SetEye(30.0f, 30.0f, 30.0f);
 		mRenderer.GetCamera().SetAt(0, 0, 0);
 	}
 

@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:layout_width="match_parent" android:layout_height="match_parent"
     android:weightSum="1"
     android:baselineAligned="false"
     android:orientation="vertical">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="New Text"
-        android:id="@+id/tvFps"
-        android:textColor="#7bc7d1" />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
 
-    <Button
-        style="?android:attr/buttonStyleSmall"
-        android:layout_width="75dp"
-        android:layout_height="33dp"
-        android:text="rotate"
-        android:id="@+id/button"
-        android:nestedScrollingEnabled="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/tvFps"
+            android:textColor="#7bc7d1"
+            android:layout_gravity="left|top" />
+
+        <ImageButton
+            android:layout_width="64dp"
+            android:layout_height="52dp"
+            android:id="@+id/button10"
+            android:layout_gravity="center_horizontal|top"
+            android:src="@android:drawable/arrow_up_float" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="75dp"
+            android:layout_height="33dp"
+            android:text="rotate"
+            android:id="@+id/button"
+            android:nestedScrollingEnabled="true"
+            android:layout_gravity="left|bottom" />
+    </FrameLayout>
 
     <Button
         style="?android:attr/buttonStyleSmall"
@@ -26,7 +40,8 @@
         android:layout_height="33dp"
         android:text="shuffle"
         android:id="@+id/button6"
-        android:nestedScrollingEnabled="true" />
+        android:nestedScrollingEnabled="true"
+        android:layout_gravity="left|bottom" />
 
     <Button
         style="?android:attr/buttonStyleSmall"
@@ -54,5 +69,35 @@
         android:layout_height="54dp"
         android:id="@+id/button5"
         android:src="@drawable/zoomout2" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"></FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"></FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="109dp"
+        android:layout_weight="1.10">
+
+        <ImageButton
+            android:layout_width="53dp"
+            android:layout_height="76dp"
+            android:id="@+id/button11"
+            android:layout_gravity="center_horizontal|bottom"
+            android:src="@android:drawable/arrow_down_float" />
+
+    </FrameLayout>
 
 </LinearLayout>

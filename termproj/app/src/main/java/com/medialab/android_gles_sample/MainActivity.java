@@ -22,9 +22,7 @@ public class MainActivity extends ListActivity {
         setContentView(R.layout.activity_main);
 
         mSamples = new ArrayList<>();
-        mSamples.add(new ListItem("Term Project",                ViewType.VIEW_COLOR));
-        //mSamples.add(new ListItem("[HW2] Per-Fragment Lighting",       ViewType.VIEW_FRAG_LIGHT));
-        //mSamples.add(new ListItem("[HW3] Normal mapping",              ViewType.VIEW_NORMAL));
+        mSamples.add(new ListItem("Infinite Pyramid",                ViewType.VIEW_COLOR));
 
         ArrayAdapter<ListItem> adapter = new ArrayAdapter<>(this,
                 android.R.layout.simple_list_item_1, mSamples);
